@@ -1,0 +1,11 @@
+2023-04-25 14:35:31,853 - rotary_actuator - INFO - started logger
+2023-04-25 14:35:31,853 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:35:31,853 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2023-04-25 14:35:44,142 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:35:44,142 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 14:35:45,144 - rotary_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-25 14:35:45,144 - rotary_actuator - INFO - ---------------- init axis -----------------
+2023-04-25 14:35:45,145 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2023-04-25 14:35:45,145 - rotary_actuator - DEBUG - String sent: 2PR MS
+

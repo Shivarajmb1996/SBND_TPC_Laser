@@ -1,0 +1,77 @@
+2021-10-04 10:08:01,911 - rotary_actuator - INFO - started logger
+2021-10-04 10:08:01,911 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-10-04 10:08:01,911 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2021-10-04 10:08:02,914 - rotary_actuator - INFO - ---------------- init axis -----------------
+2021-10-04 10:08:02,914 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2021-10-04 10:08:02,915 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2021-10-04 10:08:03,015 - rotary_actuator - INFO - Set MS=256 -> OK
+2021-10-04 10:08:03,016 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2021-10-04 10:08:03,016 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2021-10-04 10:08:03,117 - rotary_actuator - INFO - Set A=500 -> OK
+2021-10-04 10:08:03,117 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2021-10-04 10:08:03,118 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2021-10-04 10:08:03,218 - rotary_actuator - INFO - Set D=500 -> OK
+2021-10-04 10:08:03,219 - rotary_actuator - DEBUG - String sent: 2VI=500
+
+2021-10-04 10:08:03,219 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2021-10-04 10:08:03,320 - rotary_actuator - INFO - Set VI=500 -> OK
+2021-10-04 10:08:03,321 - rotary_actuator - DEBUG - String sent: 2VM=1000
+
+2021-10-04 10:08:03,322 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2021-10-04 10:08:03,422 - rotary_actuator - INFO - Set VM=1000 -> OK
+2021-10-04 10:08:03,423 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2021-10-04 10:08:03,424 - rotary_actuator - DEBUG - String sent: 2PR HC
+
+2021-10-04 10:08:03,525 - rotary_actuator - INFO - Set HC=5 -> OK
+2021-10-04 10:08:03,526 - rotary_actuator - DEBUG - String sent: 2RC=90
+
+2021-10-04 10:08:03,527 - rotary_actuator - DEBUG - String sent: 2PR RC
+
+2021-10-04 10:08:03,627 - rotary_actuator - INFO - Set RC=90 -> OK
+2021-10-04 10:08:03,628 - rotary_actuator - DEBUG - String sent: 2EE=1
+
+2021-10-04 10:08:03,629 - rotary_actuator - DEBUG - String sent: 2PR EE
+
+2021-10-04 10:08:03,730 - rotary_actuator - INFO - Set EE=1 -> OK
+2021-10-04 10:08:03,730 - rotary_actuator - DEBUG - String sent: 2S3=0,0,0
+
+2021-10-04 10:08:03,730 - rotary_actuator - DEBUG - String sent: 2PR S3
+
+2021-10-04 10:08:03,831 - rotary_actuator - INFO - Set S3=0,0,0 -> OK
+2021-10-04 10:08:03,832 - rotary_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2021-10-04 10:08:03,832 - rotary_actuator - DEBUG - String sent: 2PR S4
+
+2021-10-04 10:08:03,933 - rotary_actuator - INFO - Set S4=0,0,0 -> OK
+2021-10-04 10:08:03,934 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2021-10-04 10:08:03,934 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2021-10-04 10:08:03,934 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2021-10-04 10:08:04,035 - rotary_actuator - INFO - Set S1=2,0,0 -> OK
+2021-10-04 10:08:04,036 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2021-10-04 10:08:04,036 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2021-10-04 10:08:04,137 - rotary_actuator - INFO - Set S2=3,0,0 -> OK
+2021-10-04 10:08:06,358 - rotary_actuator - DEBUG - String sent: 2PR ALL
+
+2021-10-04 10:08:06,459 - rotary_actuator - INFO - Info: 2PR ALL
+?
+2021-10-04 10:08:14,658 - rotary_actuator - INFO - Moving 100 microsteps
+2021-10-04 10:08:14,659 - rotary_actuator - DEBUG - String sent: 2MR 100
+
+2021-10-04 10:08:18,082 - rotary_actuator - INFO - Moving -100 microsteps
+2021-10-04 10:08:18,083 - rotary_actuator - DEBUG - String sent: 2MR -100
+
+2021-10-04 10:08:28,079 - rotary_actuator - DEBUG - String sent: 2PR P
+

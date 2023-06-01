@@ -1,0 +1,11 @@
+2021-09-10 15:30:16,252 - attenuator - INFO - started logger
+2021-09-10 15:30:16,252 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-10 15:30:16,252 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-10 15:30:16,253 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-10 15:30:16,253 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-10 15:30:17,256 - attenuator - INFO - Com port (/dev/ttyUSB2) opened
+2021-09-10 15:30:17,257 - attenuator - INFO - Motor on
+2021-09-10 15:30:17,264 - attenuator - DEBUG - String sent: en 1
+2021-09-10 15:30:17,267 - attenuator - DEBUG - String sent: p
+2021-09-10 15:31:30,261 - attenuator - ERROR - Set onoff=1 failed --> trying again
+2021-09-10 15:31:30,261 - attenuator - ERROR - Set onoff=1 faild too many time --> quitting

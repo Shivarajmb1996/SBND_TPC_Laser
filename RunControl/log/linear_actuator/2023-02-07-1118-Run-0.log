@@ -1,0 +1,3309 @@
+2023-02-07 11:18:07,276 - linear_actuator - INFO - started logger
+2023-02-07 11:18:07,276 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-02-07 11:18:07,276 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_linear_actuator.json)
+2023-02-07 11:18:08,752 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-02-07 11:18:08,753 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-02-07 11:18:09,758 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-02-07 11:18:12,389 - linear_actuator - INFO - ---------------- init axis -----------------
+2023-02-07 11:18:12,389 - linear_actuator - DEBUG - String sent: 1MS=256
+
+2023-02-07 11:18:12,389 - linear_actuator - DEBUG - String sent: 1PR MS
+
+2023-02-07 11:18:12,490 - linear_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-02-07 11:18:12,491 - linear_actuator - DEBUG - String sent: 1A=400
+
+2023-02-07 11:18:12,491 - linear_actuator - DEBUG - String sent: 1PR A
+
+2023-02-07 11:18:12,592 - linear_actuator - INFO - Set A=400[92m -> OK[0m
+2023-02-07 11:18:12,593 - linear_actuator - DEBUG - String sent: 1D=700
+
+2023-02-07 11:18:12,593 - linear_actuator - DEBUG - String sent: 1PR D
+
+2023-02-07 11:18:12,694 - linear_actuator - INFO - Set D=700[92m -> OK[0m
+2023-02-07 11:18:12,694 - linear_actuator - DEBUG - String sent: 1VI=300
+
+2023-02-07 11:18:12,695 - linear_actuator - DEBUG - String sent: 1PR VI
+
+2023-02-07 11:18:12,796 - linear_actuator - INFO - Set VI=300[92m -> OK[0m
+2023-02-07 11:18:12,796 - linear_actuator - DEBUG - String sent: 1VM=800
+
+2023-02-07 11:18:12,797 - linear_actuator - DEBUG - String sent: 1PR VM
+
+2023-02-07 11:18:12,898 - linear_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-02-07 11:18:12,898 - linear_actuator - DEBUG - String sent: 1HC=10
+
+2023-02-07 11:18:12,899 - linear_actuator - DEBUG - String sent: 1PR HC
+
+2023-02-07 11:18:13,000 - linear_actuator - INFO - Set HC=10[92m -> OK[0m
+2023-02-07 11:18:13,000 - linear_actuator - DEBUG - String sent: 1RC=70
+
+2023-02-07 11:18:13,001 - linear_actuator - DEBUG - String sent: 1PR RC
+
+2023-02-07 11:18:13,102 - linear_actuator - INFO - Set RC=70[92m -> OK[0m
+2023-02-07 11:18:13,102 - linear_actuator - DEBUG - String sent: 1EE=1
+
+2023-02-07 11:18:13,103 - linear_actuator - DEBUG - String sent: 1PR EE
+
+2023-02-07 11:18:13,204 - linear_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-02-07 11:18:13,204 - linear_actuator - DEBUG - String sent: 1S4=0,0,0
+
+2023-02-07 11:18:13,205 - linear_actuator - DEBUG - String sent: 1PR S4
+
+2023-02-07 11:18:13,306 - linear_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-02-07 11:18:13,306 - linear_actuator - INFO - Set S1 and S2 as limit switches for Linear Motor
+2023-02-07 11:18:13,307 - linear_actuator - DEBUG - String sent: 1S1=2,1,0
+
+2023-02-07 11:18:13,307 - linear_actuator - DEBUG - String sent: 1PR S1
+
+2023-02-07 11:18:13,408 - linear_actuator - INFO - Set S1=2,1,0[92m -> OK[0m
+2023-02-07 11:18:13,408 - linear_actuator - DEBUG - String sent: 1S2=3,1,0
+
+2023-02-07 11:18:13,408 - linear_actuator - DEBUG - String sent: 1PR S2
+
+2023-02-07 11:18:13,509 - linear_actuator - INFO - Set S2=3,1,0[92m -> OK[0m
+2023-02-07 11:18:14,010 - linear_actuator - INFO - Set trigger from Photodiode to Linear encoder.
+2023-02-07 11:18:14,011 - linear_actuator - DEBUG - String sent: 1S3=0,1,0
+
+2023-02-07 11:18:14,011 - linear_actuator - DEBUG - String sent: 1PR S3
+
+2023-02-07 11:18:14,113 - linear_actuator - INFO - Set S3=0,1,0[92m -> OK[0m
+2023-02-07 11:18:17,018 - linear_actuator - INFO - Moving 1000 microsteps
+2023-02-07 11:18:17,018 - linear_actuator - DEBUG - String sent: 1MR 1000
+
+2023-02-07 11:18:17,019 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:17,120 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:17,221 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:18:17,221 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:18:17,322 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:18:17,322 - linear_actuator - INFO - [92m--- 0.20305299758911133 seconds ---[0m
+2023-02-07 11:18:17,323 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:17,424 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:17,525 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:17,525 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:17,626 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:17,727 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:17,728 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:17,829 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:17,929 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:17,929 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:18,030 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:18,131 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:18:18,132 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:18:18,232 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:18:18,233 - linear_actuator - INFO - [92m--- 0.2026805877685547 seconds ---[0m
+2023-02-07 11:18:18,233 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:18,334 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:18,435 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:18,436 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:18,536 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:18,637 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:18,638 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:18,739 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:18,840 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:18,841 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:18,942 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:19,042 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:19,043 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:19,144 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:19,245 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:19,246 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:19,347 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:19,448 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:19,448 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:19,549 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:19,650 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:19,651 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:19,752 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:19,853 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:19,854 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:19,955 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:20,056 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:18:20,057 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:18:20,158 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:18:20,159 - linear_actuator - INFO - [92m--- 0.20379328727722168 seconds ---[0m
+2023-02-07 11:18:20,159 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:20,261 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:20,362 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:20,363 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:20,464 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:20,565 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:20,566 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:20,667 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:20,768 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:20,768 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:20,870 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:20,971 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:20,972 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:21,073 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:21,174 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:18:21,175 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:18:21,276 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:18:21,276 - linear_actuator - INFO - [92m--- 0.2037980556488037 seconds ---[0m
+2023-02-07 11:18:21,277 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:21,378 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:21,479 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:21,480 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:21,581 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:21,682 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:21,683 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:21,784 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:21,886 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:21,886 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:21,988 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:22,089 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:22,089 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:22,191 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:22,292 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:22,292 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:22,394 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:22,495 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:22,496 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:18:22,597 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:18:22,698 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:18:22,699 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:04,960 - linear_actuator - INFO - Moving -1000 microsteps
+2023-02-07 11:19:04,961 - linear_actuator - DEBUG - String sent: 1MR -1000
+
+2023-02-07 11:19:04,961 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:05,062 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:05,163 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:19:05,164 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:19:05,265 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:19:05,265 - linear_actuator - INFO - [92m--- 0.20285534858703613 seconds ---[0m
+2023-02-07 11:19:05,266 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:05,366 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:05,467 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:05,468 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:05,569 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:05,670 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:05,670 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:05,771 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:05,872 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:05,873 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:05,974 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:06,075 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:06,076 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:06,176 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:06,277 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:06,278 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:06,379 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:06,480 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:06,480 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:06,581 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:06,683 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:06,683 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:06,784 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:06,885 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:06,886 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:06,986 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:07,087 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:07,087 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:07,188 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:07,290 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:07,290 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:07,391 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:07,492 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:07,493 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:07,594 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:07,695 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:07,696 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:07,797 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:07,898 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:07,899 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:08,000 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:08,101 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:08,101 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:08,203 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:08,304 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:08,305 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:08,406 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:08,507 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:08,508 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:08,609 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:08,710 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:08,711 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:08,813 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:08,914 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:08,915 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:09,016 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:09,117 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:09,118 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:09,219 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:09,320 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:09,321 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:09,422 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:09,524 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:09,524 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:09,626 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:09,727 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:09,728 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:09,829 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:09,930 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:09,931 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:10,032 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:10,133 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:19:10,134 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:19:10,235 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:19:10,236 - linear_actuator - INFO - [92m--- 0.20372223854064941 seconds ---[0m
+2023-02-07 11:19:10,236 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:10,337 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:10,438 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:10,439 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:10,540 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:10,642 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:10,642 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:10,744 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:10,845 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:10,846 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:10,947 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:11,048 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:11,049 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:11,150 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:11,252 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:11,252 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:11,353 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:11,455 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:11,455 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:11,557 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:11,658 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:11,659 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:11,760 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:11,861 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:11,862 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:11,963 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:12,064 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:12,065 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:12,166 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:12,267 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:12,268 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:12,369 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:12,471 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:12,471 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:12,573 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:12,674 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:12,675 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:12,776 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:12,877 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:12,878 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:12,979 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:13,080 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:13,081 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:13,182 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:13,284 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:13,284 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:13,385 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:13,487 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:13,487 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:13,589 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:13,690 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:13,691 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:13,792 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:13,893 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:13,894 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:13,996 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:14,097 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:14,098 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:14,199 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:14,300 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:14,301 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:14,402 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:14,504 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:14,504 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:14,606 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:14,707 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:14,708 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:14,809 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:14,910 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:14,911 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:15,012 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:15,113 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:15,114 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:15,215 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:15,317 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:15,317 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:15,419 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:15,520 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:15,521 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:15,622 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:15,723 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:15,724 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:15,825 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:15,927 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:15,927 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:16,029 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:16,130 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:19:16,131 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:19:16,232 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:19:16,233 - linear_actuator - INFO - [92m--- 0.2042396068572998 seconds ---[0m
+2023-02-07 11:19:16,233 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:16,334 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:16,436 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:16,436 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:16,538 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:16,639 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:16,640 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:16,741 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:16,842 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:16,843 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:16,945 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:17,046 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:17,047 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:17,148 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:17,249 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:17,250 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:17,351 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:17,452 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:17,453 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:17,554 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:17,656 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:17,656 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:17,758 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:17,859 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:17,860 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:17,961 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:18,062 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:18,063 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:18,164 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:18,265 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:18,266 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:18,367 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:18,469 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:18,469 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:18,571 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:18,672 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:18,672 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:18,774 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:18,875 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:18,876 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:18,977 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:19,078 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:19,079 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:19,180 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:19,282 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:19,282 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:19,384 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:19,485 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:19,485 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:19,586 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:19,688 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:19,688 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:19,789 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:19,891 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:19,891 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:19,992 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:20,094 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:20,094 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:20,195 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:20,296 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:20,296 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:20,397 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:20,497 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:20,497 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:20,598 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:20,700 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:20,700 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:20,801 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:20,903 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:20,903 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:21,004 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:21,106 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:21,106 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:50,799 - linear_actuator - INFO - Moving -1000 microsteps
+2023-02-07 11:19:50,799 - linear_actuator - DEBUG - String sent: 1MR -1000
+
+2023-02-07 11:19:50,799 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:50,900 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:51,001 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:51,002 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:51,103 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:51,204 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:19:51,205 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:19:51,305 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:19:51,306 - linear_actuator - INFO - [92m--- 0.2030038833618164 seconds ---[0m
+2023-02-07 11:19:51,306 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:51,407 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:51,508 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:51,509 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:51,610 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:51,711 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:51,711 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:51,812 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:51,913 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:51,914 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:52,015 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:52,116 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:52,116 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:52,217 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:52,318 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:52,319 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:52,420 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:52,521 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:52,521 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:52,622 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:52,724 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:52,724 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:52,825 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:52,926 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:52,927 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:53,028 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:53,129 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:19:53,130 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:19:53,231 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:19:53,231 - linear_actuator - INFO - [92m--- 0.20320916175842285 seconds ---[0m
+2023-02-07 11:19:53,232 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:53,333 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:53,434 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:53,434 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:53,536 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:53,637 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:53,638 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:53,739 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:53,840 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:53,840 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:53,941 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:54,043 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:54,043 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:54,145 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:54,246 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:54,247 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:54,348 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:54,449 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:54,450 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:54,551 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:54,652 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:54,653 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:54,754 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:54,855 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:54,856 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:54,957 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:55,058 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:55,059 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:55,167 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:55,268 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:55,269 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:55,370 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:55,472 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:55,472 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:55,573 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:55,675 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:55,675 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:55,777 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:55,878 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:55,879 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:55,980 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:56,081 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:56,082 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:56,183 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:56,284 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:56,285 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:56,386 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:56,487 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:56,487 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:56,589 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:56,690 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:56,691 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:56,792 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:56,894 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:56,894 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:56,996 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:57,097 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:57,098 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:57,199 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:57,300 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:57,301 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:57,402 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:57,504 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:57,504 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:57,605 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:57,707 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:57,707 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:57,809 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:57,910 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:57,911 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:58,012 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:58,113 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:58,114 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:58,215 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:58,316 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:58,317 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:58,418 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:58,520 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:58,520 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:58,621 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:58,723 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:58,723 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:58,825 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:58,926 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:58,927 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:59,028 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:59,129 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:59,130 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:59,231 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:59,332 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:59,333 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:59,434 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:59,535 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:59,536 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:59,637 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:59,739 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:59,739 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:19:59,841 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:19:59,942 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:19:59,942 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:00,044 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:00,145 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:20:00,146 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:20:00,254 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:20:00,254 - linear_actuator - INFO - [92m--- 0.21099305152893066 seconds ---[0m
+2023-02-07 11:20:00,255 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:00,356 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:00,458 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:00,458 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:00,559 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:00,661 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:00,661 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:00,763 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:00,864 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:00,865 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:00,966 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:01,067 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:01,068 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:01,169 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:01,271 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:01,272 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:01,373 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:01,474 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:01,475 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:01,576 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:01,677 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:01,678 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:01,779 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:01,881 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:01,881 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:01,982 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:02,084 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:02,084 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:02,186 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:02,287 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:02,288 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:02,389 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:02,490 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:02,491 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:02,592 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:02,693 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:02,694 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:02,795 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:02,897 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:02,897 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:02,999 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:03,100 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:03,100 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:03,202 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:03,303 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:03,303 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:03,405 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:03,506 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:03,507 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:03,608 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:03,709 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:03,710 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:03,811 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:03,912 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:03,913 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:04,014 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:04,116 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:04,116 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:04,217 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:04,319 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:04,319 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:04,420 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:04,521 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:04,522 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:04,623 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:04,724 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:04,725 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:04,826 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:04,928 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:04,928 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:05,029 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:05,130 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:20:05,131 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:20:05,231 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:20:05,232 - linear_actuator - INFO - [92m--- 0.20291852951049805 seconds ---[0m
+2023-02-07 11:20:05,239 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:05,341 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:05,442 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:05,442 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:05,543 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:05,645 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:05,645 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:05,747 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:05,848 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:05,849 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:05,950 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:06,051 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:06,052 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:06,153 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:06,255 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:06,255 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:06,356 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:06,458 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:06,459 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:06,560 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:06,661 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:06,662 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:06,764 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:06,865 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:06,865 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:06,967 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:07,068 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:07,069 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:07,170 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:07,272 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:07,272 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:07,374 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:07,475 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:07,476 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:51,199 - linear_actuator - INFO - Moving -1000 microsteps
+2023-02-07 11:20:51,199 - linear_actuator - DEBUG - String sent: 1MR -1000
+
+2023-02-07 11:20:51,200 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:51,301 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:51,401 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:51,402 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:51,503 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:51,604 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:51,605 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:51,706 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:51,806 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:51,807 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:51,908 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:52,009 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:52,009 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:52,110 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:52,211 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:52,212 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:52,313 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:52,414 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:52,414 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:52,515 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:52,616 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:52,617 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:52,718 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:52,819 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:52,819 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:52,920 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:53,022 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:53,022 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:53,123 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:53,224 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:53,225 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:53,326 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:53,427 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:53,428 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:53,529 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:53,630 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:53,631 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:53,732 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:53,833 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:53,833 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:53,934 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:54,035 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:54,036 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:54,137 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:54,238 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:54,239 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:54,340 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:54,441 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:54,442 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:54,543 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:54,645 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:54,645 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:54,746 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:54,848 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:54,848 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:54,950 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:55,051 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:55,051 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:55,153 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:55,254 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:55,255 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:55,356 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:55,457 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:55,458 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:55,559 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:55,661 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:55,661 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:55,762 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:55,864 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:55,864 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:55,965 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:56,067 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:56,067 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:56,169 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:56,270 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:56,271 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:56,372 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:56,473 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:56,473 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:56,574 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:56,676 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:56,676 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:56,778 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:56,879 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:56,880 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:56,981 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:57,082 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:57,083 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:57,184 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:57,285 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:57,286 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:57,387 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:57,489 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:57,489 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:57,598 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:57,699 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:57,700 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:57,801 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:57,902 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:57,903 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:58,004 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:58,106 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:58,107 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:58,208 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:58,309 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:58,310 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:58,411 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:58,513 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:58,513 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:58,615 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:58,716 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:58,716 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:58,818 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:58,919 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:58,920 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:59,021 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:59,122 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:59,123 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:59,224 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:59,326 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:59,327 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:59,428 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:59,529 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:59,530 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:59,631 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:59,733 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:59,733 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:20:59,834 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:20:59,936 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:20:59,936 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:00,038 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:00,139 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:00,140 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:00,241 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:00,342 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:00,343 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:00,444 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:00,546 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:00,546 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:00,647 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:00,749 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:00,749 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:00,850 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:00,952 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:00,952 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:01,054 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:01,155 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:01,156 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:01,257 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:01,359 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:01,359 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:01,460 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:01,562 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:01,562 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:01,664 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:01,765 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:01,766 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:01,867 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:01,968 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:01,969 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:02,070 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:02,172 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:02,172 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:02,273 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:02,375 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:02,375 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:02,477 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:02,578 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:02,579 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:02,680 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:02,782 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:02,782 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:02,884 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:02,985 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:02,986 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:03,087 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:03,189 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:03,189 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:03,291 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:03,392 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:03,393 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:03,494 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:03,596 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:03,596 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:03,698 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:03,799 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:03,800 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:03,901 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:04,002 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:04,003 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:04,104 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:04,205 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:04,206 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:04,307 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:04,409 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:04,409 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:04,510 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:04,612 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:04,612 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:04,713 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:04,815 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:04,816 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:04,916 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:05,017 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:05,018 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:05,119 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:05,220 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:05,221 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:05,322 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:05,424 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:05,424 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:05,526 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:05,627 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:05,628 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:05,729 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:05,830 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:05,831 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:05,933 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:06,034 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:06,035 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:06,136 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:06,237 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:06,238 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:06,339 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:06,440 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:06,441 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:06,542 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:06,643 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:06,644 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:06,745 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:06,846 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:06,847 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:06,948 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:07,050 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:07,050 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:07,152 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:07,253 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:07,254 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:07,355 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:07,456 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:07,457 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:15,195 - linear_actuator - INFO - Moving -1000 microsteps
+2023-02-07 11:21:15,196 - linear_actuator - DEBUG - String sent: 1MR -1000
+
+2023-02-07 11:21:15,203 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:15,304 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:15,405 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:15,406 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:15,507 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:15,608 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:15,608 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:15,709 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:15,810 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:15,811 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:15,912 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:16,013 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:16,013 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:16,114 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:16,215 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:16,216 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:16,317 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:16,418 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:16,418 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:16,519 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:16,620 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:16,621 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:16,722 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:16,823 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:16,823 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:16,925 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:17,026 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:17,026 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:17,127 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:17,228 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:17,229 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:17,331 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:17,432 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:17,432 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:17,534 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:17,635 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:17,635 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:17,736 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:17,837 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:17,838 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:17,939 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:18,041 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:18,041 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:18,142 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:18,244 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:18,244 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:18,345 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:18,447 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:18,447 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:18,549 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:18,650 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:18,651 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:18,752 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:18,853 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:18,854 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:18,955 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:19,056 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:19,057 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:19,159 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:19,260 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:19,261 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:19,362 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:19,463 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:19,464 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:19,565 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:19,666 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:19,667 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:19,768 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:19,870 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:19,870 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:19,971 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:20,072 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:20,073 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:20,174 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:20,276 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:20,276 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:20,385 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:20,487 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:20,487 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:20,588 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:20,690 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:20,691 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:20,792 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:20,893 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:20,894 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:20,995 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:21,096 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:21,097 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:21,198 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:21,299 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:21,300 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:48,201 - linear_actuator - INFO - Moving 2500 microsteps
+2023-02-07 11:21:48,202 - linear_actuator - DEBUG - String sent: 1MR 2500
+
+2023-02-07 11:21:48,202 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:48,303 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:48,404 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:48,405 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:48,506 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:48,607 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:48,607 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:48,708 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:48,809 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:48,810 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:48,911 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:49,012 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:49,012 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:49,114 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:49,214 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:49,215 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:49,316 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:49,417 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:49,417 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:49,518 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:49,619 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:49,620 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:49,721 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:49,822 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:49,823 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:49,924 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:50,025 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:50,025 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:50,126 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:50,227 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:50,228 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:50,329 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:50,430 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:50,431 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:50,532 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:50,633 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:50,634 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:50,735 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:50,836 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:50,836 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:50,937 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:51,039 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:51,039 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:51,141 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:51,242 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:51,242 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:51,343 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:51,444 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:51,445 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:51,546 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:51,648 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:51,648 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:51,750 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:51,851 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:51,851 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:51,953 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:52,054 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:52,055 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:52,156 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:52,258 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:52,258 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:52,360 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:52,461 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:52,462 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:52,563 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:52,665 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:52,665 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:52,766 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:52,868 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:52,869 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:52,970 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:53,071 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:53,072 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:53,173 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:53,274 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:53,275 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:53,376 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:53,477 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:53,478 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:53,579 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:53,680 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:53,681 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:53,782 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:53,884 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:53,884 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:53,985 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:54,087 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:54,087 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:54,189 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:54,290 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:54,291 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:54,392 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:54,493 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:54,494 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:54,595 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:54,696 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:54,697 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:54,798 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:54,899 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:54,900 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:55,002 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:55,103 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:55,103 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:55,205 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:55,306 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:55,307 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:55,408 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:55,509 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:55,510 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:55,612 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:55,713 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:55,714 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:55,815 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:55,916 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:55,917 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:56,018 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:56,119 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:56,120 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:56,221 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:56,323 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:56,323 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:56,424 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:56,525 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:56,526 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:56,627 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:56,728 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:56,729 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:56,830 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:56,931 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:56,932 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:57,033 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:57,134 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:57,135 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:57,236 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:57,337 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:57,338 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:57,439 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:57,540 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:57,541 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:57,642 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:57,744 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:57,745 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:57,846 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:57,947 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:57,948 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:58,049 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:58,150 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:58,151 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:58,252 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:58,353 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:58,354 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:58,455 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:58,556 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:58,557 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:58,658 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:58,760 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:58,761 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:58,862 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:58,963 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:58,964 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:59,072 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:59,174 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:59,175 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:59,276 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:59,377 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:59,378 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:59,479 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:59,581 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:59,581 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:59,683 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:59,784 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:59,785 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:21:59,886 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:21:59,987 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:21:59,988 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:00,089 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:00,190 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:00,191 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:00,292 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:00,394 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:00,394 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:00,496 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:00,597 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:00,597 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:00,699 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:00,800 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:00,801 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:00,902 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:01,003 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:01,004 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:01,105 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:01,207 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:01,208 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:01,309 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:01,410 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:01,411 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:01,512 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:01,613 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:01,614 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:01,716 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:01,817 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:01,818 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:01,919 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:02,021 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:02,021 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:02,123 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:02,224 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:02,224 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:02,326 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:02,427 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:02,428 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:02,529 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:02,630 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:02,631 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:02,732 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:02,833 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:02,834 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:02,935 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:03,036 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:03,037 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:03,138 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:03,240 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:03,241 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:03,342 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:03,443 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:03,444 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:03,545 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:03,647 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:03,648 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:03,749 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:03,850 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:03,851 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:03,952 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:04,053 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:04,054 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:04,155 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:04,257 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:04,257 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:04,359 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:04,460 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:04,461 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:04,562 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:04,664 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:04,664 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:04,765 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:04,867 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:04,867 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:04,969 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:05,070 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:05,071 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:05,172 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:05,273 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:05,274 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:05,375 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:05,477 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:05,477 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:05,579 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:05,680 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:05,681 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:05,782 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:05,883 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:05,884 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:05,985 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:06,087 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:06,087 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:06,189 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:06,290 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:06,291 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:06,392 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:06,493 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:06,494 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:06,595 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:06,697 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:06,698 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:06,799 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:06,900 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:06,901 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:07,002 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:07,103 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:07,104 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:07,205 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:07,307 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:07,308 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:07,409 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:07,510 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:07,511 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:07,612 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:07,714 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:07,714 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:07,816 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:07,917 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:07,918 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:08,019 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:08,120 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:08,121 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:08,222 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:08,324 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:08,324 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:08,426 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:08,527 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:08,528 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:08,629 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:08,730 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:08,731 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:08,832 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:08,933 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:08,934 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:09,035 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:09,136 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:09,137 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:09,238 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:09,340 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:09,340 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:09,441 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:09,543 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:09,543 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:09,644 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:09,746 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:09,746 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:09,848 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:09,949 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:09,950 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:10,051 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:10,152 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:10,153 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:10,254 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:10,355 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:10,356 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:10,457 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:10,558 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:10,559 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:10,660 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:10,761 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:10,762 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:10,863 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:10,964 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:10,965 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:11,066 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:11,167 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:11,168 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:11,269 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:11,370 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:11,371 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:11,473 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:11,574 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:11,575 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:11,676 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:11,777 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:11,778 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:11,880 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:11,981 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:11,981 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:12,083 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:12,184 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:12,185 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:12,286 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:12,387 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:12,388 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:12,489 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:12,591 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:12,591 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:12,692 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:12,794 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:12,794 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:12,896 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:12,997 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:12,997 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:13,099 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:13,200 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:13,201 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:13,302 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:13,403 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:13,404 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:13,505 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:13,606 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:13,607 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:13,708 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:13,810 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:13,810 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:13,912 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:14,013 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:14,014 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:14,115 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:14,216 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:14,217 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:14,318 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:14,420 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:14,420 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:14,521 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:14,623 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:14,624 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:14,725 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:14,826 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:14,827 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:14,928 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:15,029 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:15,030 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:15,131 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:15,233 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:15,233 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:15,335 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:15,436 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:15,436 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:15,537 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:15,639 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:15,640 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:15,741 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:15,842 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:15,843 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:15,944 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:16,045 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:16,046 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:16,155 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:16,256 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:16,256 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:16,358 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:16,459 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:16,460 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:16,561 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:16,662 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:16,663 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:16,764 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:16,866 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:16,866 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:16,968 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:17,069 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:17,070 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:17,171 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:17,273 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:17,273 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:17,375 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:17,476 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:17,477 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:17,578 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:17,679 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:17,680 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:17,781 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:17,883 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:17,883 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:17,984 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:18,086 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:18,087 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:18,188 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:18,289 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:18,290 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:18,391 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:18,493 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:18,493 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:18,595 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:18,696 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:18,696 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:18,798 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:18,899 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:18,900 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:19,001 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:19,102 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:19,103 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:19,204 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:19,306 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:19,306 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:19,408 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:19,509 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:19,510 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:19,611 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:19,712 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:19,713 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:19,814 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:19,916 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:19,916 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:20,017 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:20,119 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:20,119 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:20,221 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:20,322 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:22:20,322 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:22:36,526 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-02-07 11:22:36,533 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-02-07 11:22:37,536 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-02-07 11:22:40,162 - linear_actuator - INFO - ---------------- init axis -----------------
+2023-02-07 11:22:40,162 - linear_actuator - DEBUG - String sent: 1MS=256
+
+2023-02-07 11:22:40,162 - linear_actuator - DEBUG - String sent: 1PR MS
+
+2023-02-07 11:22:40,262 - linear_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-02-07 11:22:40,262 - linear_actuator - DEBUG - String sent: 1A=400
+
+2023-02-07 11:22:40,263 - linear_actuator - DEBUG - String sent: 1PR A
+
+2023-02-07 11:22:40,363 - linear_actuator - INFO - Set A=400[92m -> OK[0m
+2023-02-07 11:22:40,363 - linear_actuator - DEBUG - String sent: 1D=700
+
+2023-02-07 11:22:40,363 - linear_actuator - DEBUG - String sent: 1PR D
+
+2023-02-07 11:22:40,463 - linear_actuator - INFO - Set D=700[92m -> OK[0m
+2023-02-07 11:22:40,464 - linear_actuator - DEBUG - String sent: 1VI=300
+
+2023-02-07 11:22:40,464 - linear_actuator - DEBUG - String sent: 1PR VI
+
+2023-02-07 11:22:40,564 - linear_actuator - INFO - Set VI=300[92m -> OK[0m
+2023-02-07 11:22:40,565 - linear_actuator - DEBUG - String sent: 1VM=800
+
+2023-02-07 11:22:40,565 - linear_actuator - DEBUG - String sent: 1PR VM
+
+2023-02-07 11:22:40,666 - linear_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-02-07 11:22:40,667 - linear_actuator - DEBUG - String sent: 1HC=10
+
+2023-02-07 11:22:40,668 - linear_actuator - DEBUG - String sent: 1PR HC
+
+2023-02-07 11:22:40,769 - linear_actuator - INFO - Set HC=10[92m -> OK[0m
+2023-02-07 11:22:40,769 - linear_actuator - DEBUG - String sent: 1RC=70
+
+2023-02-07 11:22:40,770 - linear_actuator - DEBUG - String sent: 1PR RC
+
+2023-02-07 11:22:40,871 - linear_actuator - INFO - Set RC=70[92m -> OK[0m
+2023-02-07 11:22:40,872 - linear_actuator - DEBUG - String sent: 1EE=1
+
+2023-02-07 11:22:40,872 - linear_actuator - DEBUG - String sent: 1PR EE
+
+2023-02-07 11:22:40,973 - linear_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-02-07 11:22:40,974 - linear_actuator - DEBUG - String sent: 1S4=0,0,0
+
+2023-02-07 11:22:40,974 - linear_actuator - DEBUG - String sent: 1PR S4
+
+2023-02-07 11:22:41,075 - linear_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-02-07 11:22:41,076 - linear_actuator - INFO - Set S1 and S2 as limit switches for Linear Motor
+2023-02-07 11:22:41,077 - linear_actuator - DEBUG - String sent: 1S1=2,1,0
+
+2023-02-07 11:22:41,077 - linear_actuator - DEBUG - String sent: 1PR S1
+
+2023-02-07 11:22:41,178 - linear_actuator - INFO - Set S1=2,1,0[92m -> OK[0m
+2023-02-07 11:22:41,178 - linear_actuator - DEBUG - String sent: 1S2=3,1,0
+
+2023-02-07 11:22:41,179 - linear_actuator - DEBUG - String sent: 1PR S2
+
+2023-02-07 11:22:41,280 - linear_actuator - INFO - Set S2=3,1,0[92m -> OK[0m
+2023-02-07 11:22:41,781 - linear_actuator - INFO - Set trigger from Photodiode to Linear encoder.
+2023-02-07 11:22:41,782 - linear_actuator - DEBUG - String sent: 1S3=0,1,0
+
+2023-02-07 11:22:41,782 - linear_actuator - DEBUG - String sent: 1PR S3
+
+2023-02-07 11:22:41,884 - linear_actuator - INFO - Set S3=0,1,0[92m -> OK[0m
+2023-02-07 11:22:48,581 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:22:49,756 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:28,047 - linear_actuator - INFO - Moving -2500 microsteps
+2023-02-07 11:23:28,047 - linear_actuator - DEBUG - String sent: 1MR -2500
+
+2023-02-07 11:23:28,047 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:28,148 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:28,249 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:28,250 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:28,351 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:28,452 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:28,452 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:28,553 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:28,654 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:28,655 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:28,756 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:28,857 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:28,857 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:28,958 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:29,059 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:29,060 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:29,161 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:29,262 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:29,262 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:29,363 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:29,465 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:29,465 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:29,566 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:29,667 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:29,668 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:29,769 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:29,870 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:29,870 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:29,971 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:30,072 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:30,073 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:30,181 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:30,282 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:30,282 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:30,384 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:30,485 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:30,485 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:30,587 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:30,688 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:30,689 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:30,790 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:30,891 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:30,892 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:30,993 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:31,094 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:31,095 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:31,196 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:31,297 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:31,298 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:31,399 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:31,501 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:31,501 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:31,603 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:31,704 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:31,704 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:31,806 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:31,907 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:31,908 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:32,009 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:32,110 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:32,111 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:32,212 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:32,313 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:32,314 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:32,415 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:32,516 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:32,517 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:32,618 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:32,720 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:32,720 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:32,822 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:32,923 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:32,924 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:33,025 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:33,126 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:33,127 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:33,228 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:33,329 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:33,330 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:33,431 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:33,533 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:33,533 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:33,634 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:33,736 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:33,736 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:33,838 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:33,939 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:33,940 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:34,041 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:34,142 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:34,143 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:34,244 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:34,346 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:34,346 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:34,448 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:34,549 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:34,550 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:34,651 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:34,752 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:34,753 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:34,854 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:34,956 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:34,956 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:35,058 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:35,159 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:35,159 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:35,261 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:35,362 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:35,363 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:35,464 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:35,565 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:35,566 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:35,667 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:35,769 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:35,769 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:35,871 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:35,972 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:35,973 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:36,074 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:36,175 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:36,176 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:36,277 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:36,378 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:36,379 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:36,480 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:36,581 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:36,582 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:36,683 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:36,784 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:36,784 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:36,886 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:36,987 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:36,987 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:37,089 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:37,190 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:37,191 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:37,292 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:37,393 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:37,394 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:37,495 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:37,597 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:37,597 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:37,698 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:37,800 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:37,800 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:37,902 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:38,003 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:38,004 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:38,105 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:38,206 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:38,207 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:38,308 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:38,409 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:38,410 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:38,511 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:38,612 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:38,613 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:38,714 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:38,815 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:38,816 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:38,917 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:39,019 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:39,019 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:39,121 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:39,222 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:39,223 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:39,324 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:39,426 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:39,427 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:39,528 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:39,629 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:39,630 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:39,731 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:39,832 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:39,833 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:39,935 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:40,036 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:40,036 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:40,138 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:40,239 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:40,240 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:40,348 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:40,449 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:40,450 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:40,551 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:40,653 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:40,653 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:40,754 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:40,856 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:40,856 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:40,958 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:41,059 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:41,060 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:41,161 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:41,262 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:41,263 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:41,364 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:41,465 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:41,466 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:41,568 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:41,669 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:41,670 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:41,771 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:41,873 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:41,873 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:41,975 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:42,076 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:42,076 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:42,178 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:42,279 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:42,280 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:42,381 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:42,482 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:42,483 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:42,584 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:42,686 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:42,686 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:42,788 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:42,889 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:42,890 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:42,991 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:43,092 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:43,093 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:43,194 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:43,295 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:43,296 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:43,397 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:43,499 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:43,499 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:43,601 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:43,702 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:43,703 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:43,804 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:43,906 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:43,906 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:44,008 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:44,109 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:44,109 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:44,210 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:44,312 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:44,312 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:44,414 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:44,515 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:44,516 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:44,617 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:44,718 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:44,719 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:44,820 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:44,922 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:44,922 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:45,023 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:45,124 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:45,125 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:45,226 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:45,328 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:45,328 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:45,430 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:45,531 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:45,532 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:45,633 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:45,734 - linear_actuator - ERROR - ______ not a trigger ___________
+2023-02-07 11:23:45,735 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:45,836 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:45,938 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:45,939 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:46,040 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:46,040 - linear_actuator - INFO - [92m--- 0.20380616188049316 seconds ---[0m
+2023-02-07 11:23:46,041 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:46,142 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:46,243 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:46,244 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:46,345 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:46,345 - linear_actuator - INFO - [92m--- 0.20386958122253418 seconds ---[0m
+2023-02-07 11:23:46,346 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:46,447 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:46,548 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:46,549 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:46,650 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:46,651 - linear_actuator - INFO - [92m--- 0.20380806922912598 seconds ---[0m
+2023-02-07 11:23:46,651 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:46,752 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:46,853 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:46,854 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:46,955 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:46,956 - linear_actuator - INFO - [92m--- 0.20379209518432617 seconds ---[0m
+2023-02-07 11:23:46,956 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:47,057 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:47,159 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:47,159 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:47,261 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:47,261 - linear_actuator - INFO - [92m--- 0.20383548736572266 seconds ---[0m
+2023-02-07 11:23:47,262 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:47,363 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:47,464 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:47,465 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:47,566 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:47,566 - linear_actuator - INFO - [92m--- 0.20386242866516113 seconds ---[0m
+2023-02-07 11:23:47,567 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:47,668 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:47,769 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:47,770 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:47,871 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:47,872 - linear_actuator - INFO - [92m--- 0.20383143424987793 seconds ---[0m
+2023-02-07 11:23:47,872 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:47,974 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:48,075 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:48,076 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:48,177 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:48,177 - linear_actuator - INFO - [92m--- 0.20380187034606934 seconds ---[0m
+2023-02-07 11:23:48,178 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:48,279 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:48,380 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:48,381 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:48,482 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:48,483 - linear_actuator - INFO - [92m--- 0.20403313636779785 seconds ---[0m
+2023-02-07 11:23:48,483 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:48,585 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:48,686 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:48,687 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:48,788 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:48,788 - linear_actuator - INFO - [92m--- 0.2037372589111328 seconds ---[0m
+2023-02-07 11:23:48,789 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:48,890 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:48,991 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:48,992 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:49,093 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:49,093 - linear_actuator - INFO - [92m--- 0.20366668701171875 seconds ---[0m
+2023-02-07 11:23:49,094 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:49,195 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:49,296 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:49,297 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:49,398 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:49,399 - linear_actuator - INFO - [92m--- 0.2039334774017334 seconds ---[0m
+2023-02-07 11:23:49,399 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:49,501 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:49,602 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:49,603 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:49,704 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:49,704 - linear_actuator - INFO - [92m--- 0.20397162437438965 seconds ---[0m
+2023-02-07 11:23:49,705 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:49,806 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:49,907 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:49,908 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:50,009 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:50,010 - linear_actuator - INFO - [92m--- 0.2035965919494629 seconds ---[0m
+2023-02-07 11:23:50,010 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:50,111 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:50,213 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:50,213 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:50,314 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:50,315 - linear_actuator - INFO - [92m--- 0.2038874626159668 seconds ---[0m
+2023-02-07 11:23:50,316 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:50,417 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:50,518 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:50,519 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:50,620 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:50,620 - linear_actuator - INFO - [92m--- 0.20373272895812988 seconds ---[0m
+2023-02-07 11:23:50,621 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:50,722 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:50,823 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:50,824 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:50,925 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:50,925 - linear_actuator - INFO - [92m--- 0.20366883277893066 seconds ---[0m
+2023-02-07 11:23:50,926 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:51,027 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:51,129 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:51,129 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:51,230 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:51,231 - linear_actuator - INFO - [92m--- 0.2039642333984375 seconds ---[0m
+2023-02-07 11:23:51,232 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:51,333 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:51,434 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:51,434 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:51,536 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:51,536 - linear_actuator - INFO - [92m--- 0.2035837173461914 seconds ---[0m
+2023-02-07 11:23:51,537 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:51,638 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:51,739 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:51,740 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:51,841 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:51,842 - linear_actuator - INFO - [92m--- 0.20398235321044922 seconds ---[0m
+2023-02-07 11:23:51,842 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:51,944 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:52,045 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:52,046 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:52,147 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:52,148 - linear_actuator - INFO - [92m--- 0.20398926734924316 seconds ---[0m
+2023-02-07 11:23:52,148 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:52,249 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:52,350 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:52,351 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:52,452 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:52,453 - linear_actuator - INFO - [92m--- 0.20384883880615234 seconds ---[0m
+2023-02-07 11:23:52,453 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:52,555 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:52,656 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:52,656 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:52,758 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:52,758 - linear_actuator - INFO - [92m--- 0.2039334774017334 seconds ---[0m
+2023-02-07 11:23:52,759 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:52,860 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:52,961 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:52,962 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:53,063 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:53,064 - linear_actuator - INFO - [92m--- 0.20412421226501465 seconds ---[0m
+2023-02-07 11:23:53,065 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:53,166 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:53,267 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:53,267 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:53,369 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:53,369 - linear_actuator - INFO - [92m--- 0.2035839557647705 seconds ---[0m
+2023-02-07 11:23:53,370 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:53,471 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:53,572 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:53,573 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:53,674 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:53,675 - linear_actuator - INFO - [92m--- 0.203812837600708 seconds ---[0m
+2023-02-07 11:23:53,675 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:53,776 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:53,877 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:53,878 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:53,979 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:53,980 - linear_actuator - INFO - [92m--- 0.20390653610229492 seconds ---[0m
+2023-02-07 11:23:53,980 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:54,082 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:54,183 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:54,184 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:54,285 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:54,286 - linear_actuator - INFO - [92m--- 0.20420575141906738 seconds ---[0m
+2023-02-07 11:23:54,286 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:54,387 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:54,489 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:54,489 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:54,590 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:54,591 - linear_actuator - INFO - [92m--- 0.20386314392089844 seconds ---[0m
+2023-02-07 11:23:54,592 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:54,693 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:54,794 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:54,795 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:54,896 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:54,896 - linear_actuator - INFO - [92m--- 0.2036609649658203 seconds ---[0m
+2023-02-07 11:23:54,897 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:54,998 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:55,098 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:55,099 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:55,200 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:55,201 - linear_actuator - INFO - [92m--- 0.20332932472229004 seconds ---[0m
+2023-02-07 11:23:55,202 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:55,303 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:55,404 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:55,405 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:55,506 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:55,507 - linear_actuator - INFO - [92m--- 0.20412397384643555 seconds ---[0m
+2023-02-07 11:23:55,507 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:55,609 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:55,710 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:55,711 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:55,812 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:55,812 - linear_actuator - INFO - [92m--- 0.20402741432189941 seconds ---[0m
+2023-02-07 11:23:55,813 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:55,914 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:56,015 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:56,016 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:56,117 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:56,118 - linear_actuator - INFO - [92m--- 0.20396661758422852 seconds ---[0m
+2023-02-07 11:23:56,118 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:56,219 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:56,321 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:56,321 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:56,422 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:56,422 - linear_actuator - INFO - [92m--- 0.2030339241027832 seconds ---[0m
+2023-02-07 11:23:56,422 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:56,524 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:56,625 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:56,625 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:56,726 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:56,727 - linear_actuator - INFO - [92m--- 0.20359230041503906 seconds ---[0m
+2023-02-07 11:23:56,728 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:56,829 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:56,930 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:56,931 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:57,032 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:57,033 - linear_actuator - INFO - [92m--- 0.2039797306060791 seconds ---[0m
+2023-02-07 11:23:57,033 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:57,134 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:57,235 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:57,236 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:57,337 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:57,338 - linear_actuator - INFO - [92m--- 0.20367670059204102 seconds ---[0m
+2023-02-07 11:23:57,338 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:57,439 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:57,540 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:57,541 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:57,642 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:57,643 - linear_actuator - INFO - [92m--- 0.20369195938110352 seconds ---[0m
+2023-02-07 11:23:57,643 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:57,745 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:57,846 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:57,847 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:57,948 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:57,949 - linear_actuator - INFO - [92m--- 0.20406746864318848 seconds ---[0m
+2023-02-07 11:23:57,949 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:58,050 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:58,151 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:58,152 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:58,253 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:58,254 - linear_actuator - INFO - [92m--- 0.20387578010559082 seconds ---[0m
+2023-02-07 11:23:58,254 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:58,356 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:58,457 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:58,458 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:58,559 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:58,560 - linear_actuator - INFO - [92m--- 0.20412516593933105 seconds ---[0m
+2023-02-07 11:23:58,560 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:58,661 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:58,763 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:58,763 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:58,865 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:58,865 - linear_actuator - INFO - [92m--- 0.20399713516235352 seconds ---[0m
+2023-02-07 11:23:58,866 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 11:23:58,967 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 11:23:59,068 - linear_actuator - INFO - [92mmatching________start______[0m
+2023-02-07 11:23:59,069 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 11:23:59,170 - linear_actuator - INFO - [92mmatching________end_______[0m
+2023-02-07 11:23:59,170 - linear_actuator - INFO - [92m--- 0.2037820816040039 seconds ---[0m
+2023-02-07 11:23:59,171 - linear_actuator - DEBUG - String sent: 1PR MV
+

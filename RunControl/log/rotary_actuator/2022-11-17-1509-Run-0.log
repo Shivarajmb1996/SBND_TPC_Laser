@@ -1,0 +1,4 @@
+2022-11-17 15:09:57,756 - rotary_actuator - INFO - started logger
+2022-11-17 15:09:57,765 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-17 15:09:57,765 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2022-11-17 15:09:59,962 - rotary_actuator - INFO - Moving 500 microsteps

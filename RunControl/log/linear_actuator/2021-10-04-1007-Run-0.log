@@ -1,0 +1,72 @@
+2021-10-04 10:07:38,190 - linear_actuator - INFO - started logger
+2021-10-04 10:07:38,190 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-10-04 10:07:38,190 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_linear_actuator.json)
+2021-10-04 10:07:38,191 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-10-04 10:07:38,191 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-10-04 10:07:39,194 - linear_actuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-10-04 10:07:40,919 - linear_actuator - INFO - ---------------- init axis -----------------
+2021-10-04 10:07:40,920 - linear_actuator - DEBUG - String sent: 2MS=256
+
+2021-10-04 10:07:40,920 - linear_actuator - DEBUG - String sent: 2PR MS
+
+2021-10-04 10:07:41,021 - linear_actuator - INFO - Set MS=256 -> OK
+2021-10-04 10:07:41,022 - linear_actuator - DEBUG - String sent: 2A=50000
+
+2021-10-04 10:07:41,022 - linear_actuator - DEBUG - String sent: 2PR A
+
+2021-10-04 10:07:41,123 - linear_actuator - INFO - Set A=50000 -> OK
+2021-10-04 10:07:41,123 - linear_actuator - DEBUG - String sent: 2D=50000
+
+2021-10-04 10:07:41,123 - linear_actuator - DEBUG - String sent: 2PR D
+
+2021-10-04 10:07:41,224 - linear_actuator - INFO - Set D=50000 -> OK
+2021-10-04 10:07:41,225 - linear_actuator - DEBUG - String sent: 2VI=1000
+
+2021-10-04 10:07:41,225 - linear_actuator - DEBUG - String sent: 2PR VI
+
+2021-10-04 10:07:41,325 - linear_actuator - INFO - Set VI=1000 -> OK
+2021-10-04 10:07:41,326 - linear_actuator - DEBUG - String sent: 2VM=15000
+
+2021-10-04 10:07:41,326 - linear_actuator - DEBUG - String sent: 2PR VM
+
+2021-10-04 10:07:41,427 - linear_actuator - INFO - Set VM=15000 -> OK
+2021-10-04 10:07:41,427 - linear_actuator - DEBUG - String sent: 2HC=10
+
+2021-10-04 10:07:41,428 - linear_actuator - DEBUG - String sent: 2PR HC
+
+2021-10-04 10:07:41,528 - linear_actuator - INFO - Set HC=10 -> OK
+2021-10-04 10:07:41,529 - linear_actuator - DEBUG - String sent: 2RC=75
+
+2021-10-04 10:07:41,530 - linear_actuator - DEBUG - String sent: 2PR RC
+
+2021-10-04 10:07:41,631 - linear_actuator - INFO - Set RC=75 -> OK
+2021-10-04 10:07:41,631 - linear_actuator - DEBUG - String sent: 2EE=1
+
+2021-10-04 10:07:41,632 - linear_actuator - DEBUG - String sent: 2PR EE
+
+2021-10-04 10:07:41,732 - linear_actuator - INFO - Set EE=1 -> OK
+2021-10-04 10:07:41,733 - linear_actuator - DEBUG - String sent: 2S3=0,0,0
+
+2021-10-04 10:07:41,734 - linear_actuator - DEBUG - String sent: 2PR S3
+
+2021-10-04 10:07:41,835 - linear_actuator - INFO - Set S3=0,0,0 -> OK
+2021-10-04 10:07:41,835 - linear_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2021-10-04 10:07:41,836 - linear_actuator - DEBUG - String sent: 2PR S4
+
+2021-10-04 10:07:41,936 - linear_actuator - INFO - Set S4=0,0,0 -> OK
+2021-10-04 10:07:41,937 - linear_actuator - INFO - Set S1 and S2 as limit switches
+2021-10-04 10:07:41,937 - linear_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2021-10-04 10:07:41,938 - linear_actuator - DEBUG - String sent: 2PR S1
+
+2021-10-04 10:07:42,038 - linear_actuator - INFO - Set S1=2,0,0 -> OK
+2021-10-04 10:07:42,039 - linear_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2021-10-04 10:07:42,039 - linear_actuator - DEBUG - String sent: 2PR S2
+
+2021-10-04 10:07:42,140 - linear_actuator - INFO - Set S2=3,0,0 -> OK
+2021-10-04 10:07:42,743 - linear_actuator - DEBUG - String sent: 2PR ALL
+
+2021-10-04 10:07:42,844 - linear_actuator - INFO - Info: 2PR ALL
+?

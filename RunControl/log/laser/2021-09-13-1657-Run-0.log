@@ -1,0 +1,33 @@
+2021-09-13 16:57:49,069 - laser - INFO - started logger
+2021-09-13 16:57:49,070 - laser - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 16:57:49,070 - laser - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 16:57:50,072 - laser - INFO - Com port (/dev/ttyUSB0) opened
+2021-09-13 16:57:50,073 - laser - DEBUG - String sent: SE
+2021-09-13 16:57:50,178 - laser - INFO - Laser status is good
+2021-09-13 16:57:55,184 - laser - DEBUG - String sent: ST 1
+2021-09-13 16:57:55,191 - laser - INFO - Set start=1 -> OK
+2021-09-13 17:13:24,288 - laser - DEBUG - String sent: SH 1
+2021-09-13 17:13:24,298 - laser - INFO - Set Shutter=1 -> OK
+2021-09-13 17:13:50,625 - laser - DEBUG - String sent: SH 0
+2021-09-13 17:13:50,642 - laser - INFO - Set Shutter=0 -> OK
+2021-09-13 17:15:07,513 - laser - DEBUG - String sent: SS
+2021-09-13 17:15:07,520 - laser - INFO - SS
+2021-09-13 17:15:14,272 - laser - DEBUG - String sent: SH 1
+2021-09-13 17:15:14,286 - laser - INFO - Set Shutter=1 -> OK
+2021-09-13 17:15:33,733 - laser - DEBUG - String sent: SH 0
+2021-09-13 17:15:33,743 - laser - INFO - Set Shutter=0 -> OK
+2021-09-13 17:22:09,974 - laser - DEBUG - String sent: SE
+2021-09-13 17:22:10,098 - laser - INFO - Laser status is good
+2021-09-13 17:22:22,350 - laser - DEBUG - String sent: SC
+2021-09-13 17:22:22,434 - laser - INFO - 029296344
+2021-09-13 17:22:27,157 - laser - DEBUG - String sent: SC
+2021-09-13 17:22:27,239 - laser - INFO - 029296392
+2021-09-13 17:22:30,310 - laser - DEBUG - String sent: SC
+2021-09-13 17:22:30,392 - laser - INFO - 029296423
+2021-09-13 17:23:57,429 - laser - DEBUG - String sent: PD 001
+2021-09-13 17:23:57,446 - laser - INFO - Set setPulseDivision=001 -> OK
+2021-09-13 17:24:03,449 - laser - DEBUG - String sent: SH 1
+2021-09-13 17:24:03,462 - laser - INFO - Set Shutter=1 -> OK
+2021-09-13 17:24:15,839 - laser - DEBUG - String sent: SH 0
+2021-09-13 17:24:15,852 - laser - INFO - Set Shutter=0 -> OK
+2021-09-13 17:24:50,928 - laser - DEBUG - String sent: ST 0

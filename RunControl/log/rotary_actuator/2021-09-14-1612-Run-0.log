@@ -1,0 +1,8 @@
+2021-09-14 16:12:41,066 - rotary_actuator - INFO - started logger
+2021-09-14 16:12:41,066 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-14 16:12:41,066 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2021-09-14 16:12:42,077 - rotary_actuator - INFO - ---------------- init axis -----------------
+2021-09-14 16:12:42,078 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2021-09-14 16:12:42,078 - rotary_actuator - DEBUG - String sent: 2PR MS
+

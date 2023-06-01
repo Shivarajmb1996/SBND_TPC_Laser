@@ -1,0 +1,10 @@
+2023-04-25 14:46:46,032 - attenuator - INFO - started logger
+2023-04-25 14:46:46,032 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:46:46,032 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_attenuator.json)
+2023-04-25 14:46:47,608 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:46:47,608 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 14:46:48,620 - attenuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-25 14:46:48,620 - attenuator - INFO - Motor on
+2023-04-25 14:46:48,621 - attenuator - DEBUG - String sent: en 1
+2023-04-25 14:46:48,624 - attenuator - DEBUG - String sent: p
+2023-04-25 14:46:48,742 - attenuator - INFO - Set onoff=1 -> OK

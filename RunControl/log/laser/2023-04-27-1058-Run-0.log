@@ -1,0 +1,7 @@
+2023-04-27 10:58:57,472 - laser - INFO - started logger
+2023-04-27 10:58:59,391 - laser - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-27 10:58:59,392 - laser - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-27 10:59:00,396 - laser - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-27 10:59:07,947 - laser - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-27 10:59:07,948 - laser - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-27 10:59:08,950 - laser - INFO - Com port (/dev/ttyUSB0) opened

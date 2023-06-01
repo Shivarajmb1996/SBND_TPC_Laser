@@ -1,0 +1,12 @@
+2021-09-13 15:14:30,402 - attenuator - INFO - started logger
+2021-09-13 15:14:30,402 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:14:30,402 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 15:14:30,402 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:14:30,402 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 15:14:31,406 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 15:14:31,406 - attenuator - INFO - Motor on
+2021-09-13 15:14:31,407 - attenuator - DEBUG - String sent: en 1
+2021-09-13 15:14:31,409 - attenuator - DEBUG - String sent: p
+2021-09-13 15:14:31,528 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 15:14:41,778 - attenuator - DEBUG - String sent: n
+2021-09-13 15:14:41,894 - attenuator - ERROR - Device name: b'6ATTXXXD            \n\r' not recognised --> quitting

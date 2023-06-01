@@ -1,0 +1,72 @@
+2023-04-03 16:33:06,738 - rotary_actuator - INFO - started logger
+2023-04-03 16:33:06,739 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-03 16:33:06,739 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2023-04-03 16:33:09,097 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-03 16:33:09,098 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-03 16:33:10,100 - rotary_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-03 16:33:10,100 - rotary_actuator - INFO - ---------------- init axis -----------------
+2023-04-03 16:33:10,101 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2023-04-03 16:33:10,102 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2023-04-03 16:33:10,203 - rotary_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-04-03 16:33:10,203 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2023-04-03 16:33:10,204 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2023-04-03 16:33:10,305 - rotary_actuator - INFO - Set A=500[92m -> OK[0m
+2023-04-03 16:33:10,305 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2023-04-03 16:33:10,306 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2023-04-03 16:33:10,407 - rotary_actuator - INFO - Set D=500[92m -> OK[0m
+2023-04-03 16:33:10,407 - rotary_actuator - DEBUG - String sent: 2VI=200
+
+2023-04-03 16:33:10,408 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2023-04-03 16:33:10,509 - rotary_actuator - INFO - Set VI=200[92m -> OK[0m
+2023-04-03 16:33:10,509 - rotary_actuator - DEBUG - String sent: 2VM=800
+
+2023-04-03 16:33:10,509 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2023-04-03 16:33:10,610 - rotary_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-04-03 16:33:10,611 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2023-04-03 16:33:10,611 - rotary_actuator - DEBUG - String sent: 2PR HC
+
+2023-04-03 16:33:10,712 - rotary_actuator - INFO - Set HC=5[92m -> OK[0m
+2023-04-03 16:33:10,712 - rotary_actuator - DEBUG - String sent: 2RC=90
+
+2023-04-03 16:33:10,712 - rotary_actuator - DEBUG - String sent: 2PR RC
+
+2023-04-03 16:33:10,813 - rotary_actuator - INFO - Set RC=90[92m -> OK[0m
+2023-04-03 16:33:10,813 - rotary_actuator - DEBUG - String sent: 2EE=1
+
+2023-04-03 16:33:10,813 - rotary_actuator - DEBUG - String sent: 2PR EE
+
+2023-04-03 16:33:10,914 - rotary_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-04-03 16:33:10,914 - rotary_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2023-04-03 16:33:10,915 - rotary_actuator - DEBUG - String sent: 2PR S4
+
+2023-04-03 16:33:11,016 - rotary_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-04-03 16:33:11,016 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2023-04-03 16:33:11,016 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2023-04-03 16:33:11,017 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2023-04-03 16:33:11,118 - rotary_actuator - INFO - Set S1=2,0,0[92m -> OK[0m
+2023-04-03 16:33:11,118 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2023-04-03 16:33:11,119 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2023-04-03 16:33:11,220 - rotary_actuator - INFO - Set S2=3,0,0[92m -> OK[0m
+2023-04-03 16:33:16,633 - rotary_actuator - INFO - Moving 400 microsteps
+2023-04-03 16:33:16,640 - rotary_actuator - DEBUG - String sent: 2MR 400
+
+2023-04-03 16:33:23,445 - rotary_actuator - INFO - Moving 200 microsteps
+2023-04-03 16:33:23,446 - rotary_actuator - DEBUG - String sent: 2MR 200
+
+2023-04-03 16:33:27,855 - rotary_actuator - INFO - Moving -200 microsteps
+2023-04-03 16:33:27,856 - rotary_actuator - DEBUG - String sent: 2MR -200
+

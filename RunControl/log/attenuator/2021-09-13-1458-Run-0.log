@@ -1,0 +1,52 @@
+2021-09-13 14:58:07,632 - attenuator - INFO - started logger
+2021-09-13 14:58:07,633 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:58:07,633 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 14:58:07,633 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:58:07,633 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 14:58:08,637 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 14:58:08,637 - attenuator - INFO - Motor on
+2021-09-13 14:58:08,638 - attenuator - DEBUG - String sent: en 1
+2021-09-13 14:58:08,641 - attenuator - DEBUG - String sent: p
+2021-09-13 14:58:08,759 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 14:58:10,380 - attenuator - INFO - Moving absolute to: 0 steps
+2021-09-13 14:58:10,380 - attenuator - DEBUG - String sent: g 0
+2021-09-13 14:58:10,482 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:10,584 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:10,695 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:10,695 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:10,898 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,009 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:11,009 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,212 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,324 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:11,325 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,527 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,641 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:11,641 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,843 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:11,957 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:11,957 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,160 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,268 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:12,269 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,471 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,587 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:12,588 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,790 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:12,903 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:12,904 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,106 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,216 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:13,216 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,419 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,535 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:13,536 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,738 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:13,857 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:13,858 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:14,060 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:14,169 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:14,170 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:14,372 - attenuator - DEBUG - String sent: o
+2021-09-13 14:58:14,491 - attenuator - INFO - Position: 0.0
+2021-09-13 14:58:14,491 - attenuator - DEBUG - String sent: o

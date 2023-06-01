@@ -1,0 +1,65 @@
+2021-09-13 14:33:53,770 - attenuator - INFO - started logger
+2021-09-13 14:33:53,770 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:33:53,771 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 14:33:53,771 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:33:53,771 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 14:33:54,775 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 14:33:54,775 - attenuator - INFO - Motor on
+2021-09-13 14:33:54,776 - attenuator - DEBUG - String sent: en 1
+2021-09-13 14:33:54,778 - attenuator - DEBUG - String sent: p
+2021-09-13 14:33:55,864 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 14:34:23,086 - attenuator - ERROR - Transmission value out of bounds
+2021-09-13 14:34:28,386 - attenuator - INFO - Moving absolute to: 1597 steps
+2021-09-13 14:34:28,386 - attenuator - DEBUG - String sent: g 1597
+2021-09-13 14:34:28,490 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:28,592 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:28,694 - attenuator - INFO - Position: 252.0
+2021-09-13 14:34:28,694 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:28,897 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:28,999 - attenuator - INFO - Position: 498.0
+2021-09-13 14:34:28,999 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,202 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,304 - attenuator - INFO - Position: 865.0
+2021-09-13 14:34:29,304 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,506 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,608 - attenuator - INFO - Position: 1231.0
+2021-09-13 14:34:29,609 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,811 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:29,913 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:29,914 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,116 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,218 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:30,219 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,421 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,524 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:30,525 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,727 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:30,829 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:30,830 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,032 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,134 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:31,135 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,337 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,439 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:31,440 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,642 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,744 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:31,745 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:31,947 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:32,049 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:32,050 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:32,252 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:32,804 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:32,805 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,007 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,109 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:33,110 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,313 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,415 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:33,415 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,623 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,725 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:33,726 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:33,928 - attenuator - DEBUG - String sent: o
+2021-09-13 14:34:34,030 - attenuator - INFO - Position: 1597.0
+2021-09-13 14:34:34,031 - attenuator - DEBUG - String sent: o

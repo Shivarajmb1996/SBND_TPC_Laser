@@ -1,0 +1,4 @@
+2023-04-03 14:35:30,185 - attenuator - INFO - started logger
+2023-04-03 14:35:30,185 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-03 14:35:30,185 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_attenuator.json)
+2023-04-03 14:35:30,185 - attenuator - INFO - Motor on

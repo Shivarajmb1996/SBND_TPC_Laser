@@ -1,0 +1,6 @@
+2021-09-13 14:20:37,757 - attenuator - INFO - started logger
+2021-09-13 14:20:37,757 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:20:37,757 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 14:20:37,757 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:20:37,757 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 14:20:37,757 - attenuator - ERROR - opening fcom port (None) failed --> quitting

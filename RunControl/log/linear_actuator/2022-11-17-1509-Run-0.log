@@ -1,0 +1,3 @@
+2022-11-17 15:09:57,765 - linear_actuator - INFO - started logger
+2022-11-17 15:09:57,766 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-17 15:09:57,766 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_linear_actuator.json)

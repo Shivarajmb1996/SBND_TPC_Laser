@@ -1,0 +1,108 @@
+2023-04-25 14:36:17,946 - attenuator - INFO - started logger
+2023-04-25 14:36:17,946 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:36:17,946 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_attenuator.json)
+2023-04-25 14:36:19,424 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:36:19,424 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 14:36:20,429 - attenuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-25 14:36:28,719 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 14:36:28,720 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 14:36:29,723 - attenuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-25 14:36:54,284 - attenuator - INFO - Motor on
+2023-04-25 14:36:54,284 - attenuator - DEBUG - String sent: en 1
+2023-04-25 14:36:54,288 - attenuator - DEBUG - String sent: p
+2023-04-25 14:36:54,389 - attenuator - INFO - Set onoff=1 -> OK
+2023-04-25 14:37:06,191 - attenuator - INFO - Moving absolute to: 798 steps
+2023-04-25 14:37:06,192 - attenuator - DEBUG - String sent: g 798
+2023-04-25 14:37:06,295 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:06,397 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:06,499 - attenuator - INFO - Position: 1804.0
+2023-04-25 14:37:06,499 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:06,702 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:06,804 - attenuator - INFO - Position: 1558.0
+2023-04-25 14:37:06,804 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:07,007 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:07,109 - attenuator - INFO - Position: 1191.0
+2023-04-25 14:37:07,109 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:07,312 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:07,414 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:07,516 - attenuator - INFO - Position: 798.0
+2023-04-25 14:37:07,517 - attenuator - INFO - Set transmission to: 10.0%
+2023-04-25 14:37:14,844 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:23,144 - attenuator - ERROR - Transmission value out of bounds
+2023-04-25 14:37:29,618 - attenuator - ERROR - Transmission value out of bounds
+2023-04-25 14:37:38,178 - attenuator - INFO - Moving absolute to: 3899 steps
+2023-04-25 14:37:38,178 - attenuator - DEBUG - String sent: g 3899
+2023-04-25 14:37:38,281 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:38,384 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:38,486 - attenuator - INFO - Position: 893.0
+2023-04-25 14:37:38,486 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:38,689 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:38,791 - attenuator - INFO - Position: 1139.0
+2023-04-25 14:37:38,791 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:38,994 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,095 - attenuator - INFO - Position: 1505.0
+2023-04-25 14:37:39,096 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,299 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,401 - attenuator - INFO - Position: 1872.0
+2023-04-25 14:37:39,401 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,604 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,706 - attenuator - INFO - Position: 2238.0
+2023-04-25 14:37:39,706 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:39,909 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,011 - attenuator - INFO - Position: 2605.0
+2023-04-25 14:37:40,011 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,214 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,316 - attenuator - INFO - Position: 2971.0
+2023-04-25 14:37:40,317 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,520 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,622 - attenuator - INFO - Position: 3338.0
+2023-04-25 14:37:40,623 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,825 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:40,928 - attenuator - DEBUG - String sent: o
+2023-04-25 14:37:41,030 - attenuator - INFO - Position: 3899.0
+2023-04-25 14:37:41,030 - attenuator - INFO - Set transmission to: 100.0%
+2023-04-25 14:37:45,372 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:39,455 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:42,853 - attenuator - INFO - Moving absolute to: 0 steps
+2023-04-25 14:39:42,853 - attenuator - DEBUG - String sent: g 0
+2023-04-25 14:39:42,956 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,058 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,160 - attenuator - INFO - Position: 3804.0
+2023-04-25 14:39:43,160 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,363 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,465 - attenuator - INFO - Position: 3558.0
+2023-04-25 14:39:43,465 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,668 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,770 - attenuator - INFO - Position: 3192.0
+2023-04-25 14:39:43,770 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:43,973 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,075 - attenuator - INFO - Position: 2825.0
+2023-04-25 14:39:44,076 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,278 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,380 - attenuator - INFO - Position: 2458.0
+2023-04-25 14:39:44,381 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,584 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,686 - attenuator - INFO - Position: 2092.0
+2023-04-25 14:39:44,686 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,889 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:44,991 - attenuator - INFO - Position: 1725.0
+2023-04-25 14:39:44,992 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,194 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,296 - attenuator - INFO - Position: 1358.0
+2023-04-25 14:39:45,297 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,500 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,602 - attenuator - INFO - Position: 991.0
+2023-04-25 14:39:45,603 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,805 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:45,907 - attenuator - INFO - Position: 624.0
+2023-04-25 14:39:45,908 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:46,111 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:46,212 - attenuator - INFO - Position: 257.0
+2023-04-25 14:39:46,213 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:46,416 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:46,518 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:46,620 - attenuator - INFO - Position: 0.0
+2023-04-25 14:39:46,621 - attenuator - INFO - Set transmission to: 0.0%
+2023-04-25 14:39:49,651 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:50,879 - attenuator - DEBUG - String sent: o
+2023-04-25 14:39:51,505 - attenuator - DEBUG - String sent: o

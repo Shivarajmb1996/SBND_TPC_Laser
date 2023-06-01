@@ -1,0 +1,52 @@
+2021-09-13 14:45:50,340 - attenuator - INFO - started logger
+2021-09-13 14:45:50,340 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:45:50,340 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 14:45:50,340 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 14:45:50,340 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 14:45:51,343 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 14:45:51,344 - attenuator - INFO - Motor on
+2021-09-13 14:45:51,345 - attenuator - DEBUG - String sent: en 1
+2021-09-13 14:45:51,347 - attenuator - DEBUG - String sent: p
+2021-09-13 14:45:51,465 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 14:46:08,623 - attenuator - DEBUG - String sent: o
+2021-09-13 14:49:14,099 - attenuator - DEBUG - String sent: o
+2021-09-13 14:49:23,103 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:13,248 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:17,853 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:32,598 - attenuator - INFO - Moving absolute to: 157 steps
+2021-09-13 14:54:32,599 - attenuator - DEBUG - String sent: g 157
+2021-09-13 14:54:32,703 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:32,805 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:32,922 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:32,923 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,125 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,242 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:33,242 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,444 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,562 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:33,563 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,765 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:33,883 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:33,884 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,086 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,205 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:34,206 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,409 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,525 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:34,526 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,728 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:34,837 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:34,837 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,040 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,158 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:35,159 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,361 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,471 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:35,471 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,674 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,783 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:35,783 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:35,986 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:36,109 - attenuator - INFO - Position: 157.0
+2021-09-13 14:54:36,109 - attenuator - DEBUG - String sent: o
+2021-09-13 14:54:36,191 - attenuator - ERROR - Could not read to com port

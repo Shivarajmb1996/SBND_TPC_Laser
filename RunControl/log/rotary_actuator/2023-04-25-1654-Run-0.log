@@ -1,0 +1,3895 @@
+2023-04-25 16:54:58,225 - rotary_actuator - INFO - started logger
+2023-04-25 16:54:58,225 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 16:54:58,225 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2023-04-25 16:55:02,362 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 16:55:02,363 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 16:55:03,364 - rotary_actuator - INFO - Com port (/dev/ttyUSB1) opened
+2023-04-25 16:55:03,365 - rotary_actuator - INFO - ---------------- init axis -----------------
+2023-04-25 16:55:03,373 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2023-04-25 16:55:03,373 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2023-04-25 16:55:03,474 - rotary_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-04-25 16:55:03,474 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2023-04-25 16:55:03,474 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2023-04-25 16:55:03,575 - rotary_actuator - INFO - Set A=500[92m -> OK[0m
+2023-04-25 16:55:03,575 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2023-04-25 16:55:03,576 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2023-04-25 16:55:03,676 - rotary_actuator - INFO - Set D=500[92m -> OK[0m
+2023-04-25 16:55:03,677 - rotary_actuator - DEBUG - String sent: 2VI=200
+
+2023-04-25 16:55:03,677 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2023-04-25 16:55:03,778 - rotary_actuator - INFO - Set VI=200[92m -> OK[0m
+2023-04-25 16:55:03,778 - rotary_actuator - DEBUG - String sent: 2VM=800
+
+2023-04-25 16:55:03,779 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2023-04-25 16:55:03,880 - rotary_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-04-25 16:55:03,880 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2023-04-25 16:55:03,881 - rotary_actuator - DEBUG - String sent: 2PR HC
+
+2023-04-25 16:55:03,981 - rotary_actuator - INFO - Set HC=5[92m -> OK[0m
+2023-04-25 16:55:03,982 - rotary_actuator - DEBUG - String sent: 2RC=90
+
+2023-04-25 16:55:03,982 - rotary_actuator - DEBUG - String sent: 2PR RC
+
+2023-04-25 16:55:04,082 - rotary_actuator - INFO - Set RC=90[92m -> OK[0m
+2023-04-25 16:55:04,082 - rotary_actuator - DEBUG - String sent: 2EE=1
+
+2023-04-25 16:55:04,082 - rotary_actuator - DEBUG - String sent: 2PR EE
+
+2023-04-25 16:55:04,183 - rotary_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-04-25 16:55:04,184 - rotary_actuator - DEBUG - String sent: 2SM=1
+
+2023-04-25 16:55:04,184 - rotary_actuator - DEBUG - String sent: 2PR SM
+
+2023-04-25 16:55:04,285 - rotary_actuator - INFO - Set SM=1[92m -> OK[0m
+2023-04-25 16:55:04,285 - rotary_actuator - DEBUG - String sent: 2SF=20
+
+2023-04-25 16:55:04,285 - rotary_actuator - DEBUG - String sent: 2PR SF
+
+2023-04-25 16:55:04,386 - rotary_actuator - INFO - Set SF=20[92m -> OK[0m
+2023-04-25 16:55:04,387 - rotary_actuator - DEBUG - String sent: 2S3=0,0,0
+
+2023-04-25 16:55:04,387 - rotary_actuator - DEBUG - String sent: 2PR S3
+
+2023-04-25 16:55:04,488 - rotary_actuator - INFO - Set S3=0,0,0[92m -> OK[0m
+2023-04-25 16:55:04,488 - rotary_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2023-04-25 16:55:04,488 - rotary_actuator - DEBUG - String sent: 2PR S4
+
+2023-04-25 16:55:04,589 - rotary_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-04-25 16:55:04,589 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2023-04-25 16:55:04,590 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2023-04-25 16:55:04,590 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2023-04-25 16:55:04,691 - rotary_actuator - INFO - Set S1=2,0,0[92m -> OK[0m
+2023-04-25 16:55:04,691 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2023-04-25 16:55:04,692 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2023-04-25 16:55:04,792 - rotary_actuator - INFO - Set S2=3,0,0[92m -> OK[0m
+2023-04-25 16:55:31,179 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-25 16:55:31,180 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-25 16:55:32,183 - rotary_actuator - INFO - Com port (/dev/ttyUSB1) opened
+2023-04-25 16:55:32,183 - rotary_actuator - INFO - ---------------- init axis -----------------
+2023-04-25 16:55:32,184 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2023-04-25 16:55:32,185 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2023-04-25 16:55:32,286 - rotary_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-04-25 16:55:32,287 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2023-04-25 16:55:32,287 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2023-04-25 16:55:32,388 - rotary_actuator - INFO - Set A=500[92m -> OK[0m
+2023-04-25 16:55:32,388 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2023-04-25 16:55:32,389 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2023-04-25 16:55:32,489 - rotary_actuator - INFO - Set D=500[92m -> OK[0m
+2023-04-25 16:55:32,489 - rotary_actuator - DEBUG - String sent: 2VI=200
+
+2023-04-25 16:55:32,490 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2023-04-25 16:55:32,590 - rotary_actuator - INFO - Set VI=200[92m -> OK[0m
+2023-04-25 16:55:32,591 - rotary_actuator - DEBUG - String sent: 2VM=800
+
+2023-04-25 16:55:32,592 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2023-04-25 16:55:32,692 - rotary_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-04-25 16:55:32,693 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2023-04-25 16:55:32,694 - rotary_actuator - DEBUG - String sent: 2PR HC
+
+2023-04-25 16:55:32,794 - rotary_actuator - INFO - Set HC=5[92m -> OK[0m
+2023-04-25 16:55:32,794 - rotary_actuator - DEBUG - String sent: 2RC=90
+
+2023-04-25 16:55:32,795 - rotary_actuator - DEBUG - String sent: 2PR RC
+
+2023-04-25 16:55:32,895 - rotary_actuator - INFO - Set RC=90[92m -> OK[0m
+2023-04-25 16:55:32,895 - rotary_actuator - DEBUG - String sent: 2EE=1
+
+2023-04-25 16:55:32,895 - rotary_actuator - DEBUG - String sent: 2PR EE
+
+2023-04-25 16:55:32,996 - rotary_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-04-25 16:55:32,996 - rotary_actuator - DEBUG - String sent: 2SM=1
+
+2023-04-25 16:55:32,996 - rotary_actuator - DEBUG - String sent: 2PR SM
+
+2023-04-25 16:55:33,096 - rotary_actuator - INFO - Set SM=1[92m -> OK[0m
+2023-04-25 16:55:33,097 - rotary_actuator - DEBUG - String sent: 2SF=20
+
+2023-04-25 16:55:33,097 - rotary_actuator - DEBUG - String sent: 2PR SF
+
+2023-04-25 16:55:33,197 - rotary_actuator - INFO - Set SF=20[92m -> OK[0m
+2023-04-25 16:55:33,197 - rotary_actuator - DEBUG - String sent: 2S3=0,0,0
+
+2023-04-25 16:55:33,198 - rotary_actuator - DEBUG - String sent: 2PR S3
+
+2023-04-25 16:55:33,299 - rotary_actuator - INFO - Set S3=0,0,0[92m -> OK[0m
+2023-04-25 16:55:33,300 - rotary_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2023-04-25 16:55:33,300 - rotary_actuator - DEBUG - String sent: 2PR S4
+
+2023-04-25 16:55:33,401 - rotary_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-04-25 16:55:33,402 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2023-04-25 16:55:33,402 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2023-04-25 16:55:33,402 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2023-04-25 16:55:33,503 - rotary_actuator - INFO - Set S1=2,0,0[92m -> OK[0m
+2023-04-25 16:55:33,503 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2023-04-25 16:55:33,503 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2023-04-25 16:55:33,605 - rotary_actuator - INFO - Set S2=3,0,0[92m -> OK[0m
+2023-04-25 17:44:29,772 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:44:39,119 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:44:54,415 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:45:03,065 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:45:07,867 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:45:09,208 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:45:11,823 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:45:32,059 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:46:19,980 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:46:23,080 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:46:34,256 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:47:04,836 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:47:05,882 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:47:17,228 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:24,841 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:26,864 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:27,643 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:28,281 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:28,975 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:29,737 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:30,335 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:31,002 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:31,546 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:48:32,543 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:24,879 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:27,836 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:28,856 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:29,881 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:33,429 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:49:59,727 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:49:59,728 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:49:59,829 - rotary_actuator - INFO - Moving -5000 microsteps
+2023-04-25 17:49:59,830 - rotary_actuator - DEBUG - String sent: 2MR -5000
+
+2023-04-25 17:49:59,930 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:00,031 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:00,132 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:00,133 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:00,234 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:00,335 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:00,335 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:00,436 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:00,537 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:00,537 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:00,638 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:00,739 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:00,739 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:00,840 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:00,941 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:00,942 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:01,043 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:01,144 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:01,144 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:01,245 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:01,346 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:01,346 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:01,448 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:01,549 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:01,549 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:01,650 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:01,751 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:01,751 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:01,853 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:01,954 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:01,954 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:02,055 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:02,156 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:02,157 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:02,257 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:02,358 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:02,359 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:02,460 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:02,561 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:02,562 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:02,664 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:02,765 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:02,765 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:02,866 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:02,967 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:02,967 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:03,069 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:03,170 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:03,171 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:03,272 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:03,373 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:03,374 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:03,474 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:03,575 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:03,576 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:03,677 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:03,778 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:03,779 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:03,880 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:03,981 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:03,981 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:04,082 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:04,184 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:04,184 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:04,285 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:04,386 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:04,387 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:04,488 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:04,589 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:04,590 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:04,691 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:04,792 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:04,792 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:04,894 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:04,994 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:04,995 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:05,096 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:05,096 - rotary_actuator - INFO - [92m--- 0.2028965950012207 seconds ---[0m
+2023-04-25 17:50:05,097 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:05,198 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:05,299 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:05,300 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:05,401 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:05,502 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:05,502 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:05,603 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:05,704 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:05,705 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:05,806 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:05,907 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:05,908 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:06,008 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:06,109 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:06,110 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:06,211 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:06,312 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:06,313 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:06,414 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:06,515 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:06,516 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:06,617 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:06,718 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:06,718 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:06,819 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:06,921 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:06,921 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:07,022 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:07,123 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:07,124 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:07,225 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:07,326 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:07,327 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:07,428 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:07,529 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:07,529 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:07,630 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:07,731 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:07,731 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:07,832 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:07,934 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:07,935 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:08,035 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:08,137 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:08,138 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:08,238 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:08,339 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:08,339 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:08,440 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:08,541 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:08,541 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:08,643 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:08,743 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:08,744 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:08,845 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:08,946 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:08,947 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:09,048 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:09,149 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:09,150 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:09,251 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:09,352 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:09,353 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:09,454 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:09,554 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:09,554 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:09,655 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:09,756 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:09,756 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:09,857 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:09,958 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:09,959 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:10,059 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:10,059 - rotary_actuator - INFO - [92m--- 0.20264720916748047 seconds ---[0m
+2023-04-25 17:50:10,060 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:10,160 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:10,261 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:10,261 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:10,363 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:10,463 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:10,464 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:10,565 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:10,667 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:10,667 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:10,769 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:10,870 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:10,871 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:10,972 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:11,073 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:11,074 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:11,176 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:11,276 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:11,277 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:11,378 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:11,479 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:11,479 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:11,581 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:11,682 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:11,683 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:11,784 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:11,885 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:11,886 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:11,987 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:12,088 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:12,089 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:12,190 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:12,291 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:12,291 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:12,393 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:12,493 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:12,494 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:12,595 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:12,696 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:12,697 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:12,798 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:12,899 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:12,900 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:13,000 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:13,101 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:13,102 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:13,203 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:13,304 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:13,304 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:13,406 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:13,506 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:13,507 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:13,608 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:13,709 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:13,709 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:13,810 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:13,911 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:13,912 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:14,013 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:14,114 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:14,115 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:14,216 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:14,317 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:14,317 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:14,419 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:14,520 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:14,520 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:14,621 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:14,722 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:14,722 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:14,823 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:14,925 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:14,926 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:15,026 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:15,027 - rotary_actuator - INFO - [92m--- 0.2038412094116211 seconds ---[0m
+2023-04-25 17:50:15,027 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:15,128 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:15,229 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:15,229 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:15,330 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:15,432 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:15,432 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:15,533 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:15,635 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:15,635 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:15,736 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:15,837 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:15,838 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:15,940 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:16,040 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:16,041 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:16,142 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:16,243 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:16,243 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:16,345 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:16,446 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:16,447 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:16,548 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:16,650 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:16,650 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:35,038 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:35,038 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:35,139 - rotary_actuator - INFO - Moving 8000 microsteps
+2023-04-25 17:50:35,140 - rotary_actuator - DEBUG - String sent: 2MR 8000
+
+2023-04-25 17:50:35,240 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:35,341 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:35,442 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:35,443 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:35,543 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:35,645 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:35,645 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:35,746 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:35,847 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:35,847 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:35,949 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:36,050 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:36,050 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:36,152 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:36,252 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:36,253 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:36,353 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:36,454 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:36,455 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:36,556 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:36,657 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:36,658 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:36,758 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:36,859 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:36,860 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:36,961 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:37,062 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:37,063 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:37,165 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:37,265 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:37,266 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:37,367 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:37,468 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:37,468 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:37,569 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:37,670 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:37,671 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:37,772 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:37,873 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:37,873 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:37,974 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:38,075 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:38,076 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:38,178 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:38,279 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:38,280 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:38,381 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:38,482 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:38,482 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:38,584 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:38,685 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:38,686 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:38,787 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:38,888 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:38,889 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:38,990 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:39,091 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:39,092 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:39,193 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:39,295 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:39,295 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:39,397 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:39,498 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:39,498 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:39,599 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:39,700 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:39,701 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:39,802 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:39,903 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:39,904 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:40,005 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:40,105 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:40,106 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:40,206 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:40,206 - rotary_actuator - INFO - [92m--- 0.2015235424041748 seconds ---[0m
+2023-04-25 17:50:40,207 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:40,308 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:40,409 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:40,410 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:40,511 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:40,612 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:40,613 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:40,714 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:40,815 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:40,816 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:40,917 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:41,018 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:41,019 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:41,120 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:41,220 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:41,221 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:41,322 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:41,423 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:41,424 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:41,525 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:41,626 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:41,627 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:41,728 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:41,829 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:41,830 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:41,931 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:42,033 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:42,034 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:42,135 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:42,236 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:42,237 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:42,338 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:42,440 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:42,440 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:42,541 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:42,642 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:42,643 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:42,744 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:42,845 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:42,846 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:42,948 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:43,048 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:43,049 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:43,150 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:43,250 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:43,251 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:43,352 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:43,453 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:43,454 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:43,555 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:43,656 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:43,657 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:43,758 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:43,859 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:43,860 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:43,960 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:44,061 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:44,062 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:44,163 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:44,264 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:44,264 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:44,365 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:44,466 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:44,466 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:44,568 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:44,669 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:44,669 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:44,770 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:44,871 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:44,872 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:44,973 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:45,074 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:45,074 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:45,175 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:45,176 - rotary_actuator - INFO - [92m--- 0.20339536666870117 seconds ---[0m
+2023-04-25 17:50:45,177 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:45,278 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:45,379 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:45,380 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:45,480 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:45,581 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:45,582 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:45,684 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:45,784 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:45,785 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:45,886 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:45,987 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:45,987 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:46,088 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:46,190 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:46,190 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:46,291 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:46,393 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:46,394 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:46,494 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:46,595 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:46,596 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:46,697 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:46,798 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:46,799 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:46,901 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:47,001 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:47,002 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:47,102 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:47,204 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:47,205 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:47,306 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:47,407 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:47,408 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:47,509 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:47,610 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:47,611 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:47,712 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:47,813 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:47,814 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:47,916 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:48,017 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:48,017 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:48,118 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:48,219 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:48,220 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:48,321 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:48,422 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:48,423 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:48,524 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:48,625 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:48,625 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:48,726 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:48,827 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:48,828 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:48,929 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:49,031 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:49,031 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:49,133 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:49,234 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:49,234 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:49,335 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:49,437 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:49,437 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:49,538 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:49,639 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:49,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:49,741 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:49,842 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:49,843 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:49,944 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:50,045 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:50,046 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:50,147 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:50,147 - rotary_actuator - INFO - [92m--- 0.20331716537475586 seconds ---[0m
+2023-04-25 17:50:50,148 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:50,248 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:50,349 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:50,349 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:50,450 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:50,551 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:50,551 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:50,653 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:50,754 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:50,754 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:50,855 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:50,956 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:50,957 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:51,058 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:51,160 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:51,161 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:51,261 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:51,362 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:51,363 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:51,464 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:51,565 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:51,566 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:51,667 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:51,768 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:51,768 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:51,869 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:51,970 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:51,970 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:52,072 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:52,173 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:52,174 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:52,275 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:52,376 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:52,377 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:52,478 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:52,579 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:52,580 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:52,681 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:52,782 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:52,782 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:52,884 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:52,985 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:52,985 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:53,086 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:53,188 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:53,188 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:53,289 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:53,391 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:53,391 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:53,492 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:53,593 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:53,594 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:53,695 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:53,796 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:53,797 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:53,898 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:53,999 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:53,999 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:54,100 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:54,201 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:54,202 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:54,303 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:54,405 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:54,405 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:54,506 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:54,607 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:54,608 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:54,709 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:54,809 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:54,810 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:54,912 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:55,012 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:50:55,013 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:50:55,113 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:50:55,114 - rotary_actuator - INFO - [92m--- 0.2027738094329834 seconds ---[0m
+2023-04-25 17:50:55,115 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:55,216 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:55,317 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:55,318 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:55,420 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:55,520 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:55,521 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:55,622 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:55,723 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:55,723 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:55,823 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:55,925 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:55,925 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:56,026 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:56,127 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:56,128 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:56,229 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:56,330 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:56,331 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:56,432 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:56,533 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:56,533 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:56,634 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:56,735 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:56,735 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:56,837 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:56,938 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:56,939 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:57,040 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:57,141 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:57,142 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:57,242 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:57,343 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:57,344 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:57,446 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:57,547 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:57,547 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:57,649 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:57,750 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:57,750 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:57,851 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:57,952 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:57,953 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:58,053 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:58,154 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:58,155 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:58,256 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:58,357 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:58,358 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:58,459 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:58,559 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:58,560 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:58,662 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:58,762 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:58,763 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:58,864 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:58,965 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:58,965 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:59,066 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:59,167 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:59,168 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:59,269 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:59,370 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:59,371 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:59,472 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:59,573 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:59,574 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:50:59,676 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:50:59,777 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:50:59,777 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:16,621 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:16,628 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:16,729 - rotary_actuator - INFO - Moving -8000 microsteps
+2023-04-25 17:51:16,729 - rotary_actuator - DEBUG - String sent: 2MR -8000
+
+2023-04-25 17:51:16,830 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:16,931 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:17,032 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:17,032 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:17,133 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:17,234 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:17,234 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:17,335 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:17,436 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:17,437 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:17,538 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:17,639 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:17,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:17,740 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:17,841 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:17,842 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:17,943 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:17,943 - rotary_actuator - INFO - [92m--- 0.2026197910308838 seconds ---[0m
+2023-04-25 17:51:17,943 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:18,044 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:18,146 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:18,146 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:18,247 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:18,348 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:18,349 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:18,450 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:18,551 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:18,551 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:18,652 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:18,753 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:18,753 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:18,854 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:18,855 - rotary_actuator - INFO - [92m--- 0.20304346084594727 seconds ---[0m
+2023-04-25 17:51:18,856 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:18,956 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:19,057 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:19,058 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:19,159 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:19,260 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:19,260 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:19,361 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:19,462 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:19,463 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:19,564 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:19,665 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:19,666 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:19,767 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:19,868 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:19,869 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:19,969 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:19,970 - rotary_actuator - INFO - [92m--- 0.20265722274780273 seconds ---[0m
+2023-04-25 17:51:19,970 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:20,071 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:20,172 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:20,173 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:20,274 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:20,375 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:20,376 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:20,476 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:20,577 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:20,578 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:20,679 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:20,780 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:20,781 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:20,882 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:20,882 - rotary_actuator - INFO - [92m--- 0.20317411422729492 seconds ---[0m
+2023-04-25 17:51:20,883 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:20,984 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:21,085 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:21,086 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:21,187 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:21,288 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:21,288 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:21,390 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:21,490 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:21,491 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:21,592 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:21,693 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:21,694 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:21,801 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:21,903 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:21,904 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:22,005 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:22,005 - rotary_actuator - INFO - [92m--- 0.20393753051757812 seconds ---[0m
+2023-04-25 17:51:22,006 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:22,107 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:22,208 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:22,208 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:22,309 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:22,411 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:22,411 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:22,512 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:22,613 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:22,614 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:22,715 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:22,815 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:22,815 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:22,916 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:22,917 - rotary_actuator - INFO - [92m--- 0.20211505889892578 seconds ---[0m
+2023-04-25 17:51:22,917 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:23,018 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:23,119 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:23,120 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:23,220 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:23,322 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:23,323 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:23,424 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:23,525 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:23,525 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:23,626 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:23,727 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:23,727 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:23,828 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:23,930 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:23,930 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:24,031 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:24,031 - rotary_actuator - INFO - [92m--- 0.20348596572875977 seconds ---[0m
+2023-04-25 17:51:24,031 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:24,132 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:24,232 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:24,232 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:24,334 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:24,435 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:24,437 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:24,538 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:24,638 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:24,638 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:24,739 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:24,840 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:24,841 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:24,942 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:24,943 - rotary_actuator - INFO - [92m--- 0.20378446578979492 seconds ---[0m
+2023-04-25 17:51:24,943 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:25,045 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:25,146 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:25,147 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:25,248 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:25,349 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:25,350 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:25,451 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:25,552 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:25,552 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:25,653 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:25,754 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:25,754 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:25,855 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:25,855 - rotary_actuator - INFO - [92m--- 0.20204877853393555 seconds ---[0m
+2023-04-25 17:51:25,855 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:25,956 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:26,057 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:26,058 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:26,160 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:26,260 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:26,261 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:26,362 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:26,463 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:26,463 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:26,564 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:26,666 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:26,667 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:26,768 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:26,869 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:26,870 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:26,970 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:26,970 - rotary_actuator - INFO - [92m--- 0.2026827335357666 seconds ---[0m
+2023-04-25 17:51:26,971 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:27,072 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:27,173 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:27,174 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:27,275 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:27,376 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:27,377 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:27,477 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:27,579 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:27,579 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:27,681 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:27,782 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:27,782 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:27,883 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:27,883 - rotary_actuator - INFO - [92m--- 0.20278096199035645 seconds ---[0m
+2023-04-25 17:51:27,884 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:27,985 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:28,086 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:28,086 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:28,187 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:28,288 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:28,289 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:28,390 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:28,491 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:28,492 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:28,593 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:28,694 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:28,695 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:28,796 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:28,897 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:28,898 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:28,998 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:28,998 - rotary_actuator - INFO - [92m--- 0.2028355598449707 seconds ---[0m
+2023-04-25 17:51:28,998 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:29,100 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:29,201 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:29,201 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:29,302 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:29,403 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:29,404 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:29,505 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:29,606 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:29,607 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:29,708 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:29,809 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:29,809 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:29,910 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:29,911 - rotary_actuator - INFO - [92m--- 0.20311903953552246 seconds ---[0m
+2023-04-25 17:51:29,911 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:30,012 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:30,113 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:30,114 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:30,215 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:30,316 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:30,317 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:30,418 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:30,519 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:30,519 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:30,621 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:30,722 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:30,722 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:30,823 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:30,925 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:30,926 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:31,026 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:31,027 - rotary_actuator - INFO - [92m--- 0.20384812355041504 seconds ---[0m
+2023-04-25 17:51:31,027 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:31,127 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:31,228 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:31,228 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:31,329 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:31,430 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:31,431 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:31,538 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:31,639 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:31,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:31,740 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:31,842 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:31,842 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:31,943 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:31,944 - rotary_actuator - INFO - [92m--- 0.20359373092651367 seconds ---[0m
+2023-04-25 17:51:31,945 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:32,046 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:32,147 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:32,147 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:32,248 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:32,349 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:32,350 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:32,451 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:32,552 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:32,553 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:32,654 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:32,755 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:32,755 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:32,856 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:32,857 - rotary_actuator - INFO - [92m--- 0.2031724452972412 seconds ---[0m
+2023-04-25 17:51:32,858 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:32,959 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:33,060 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:33,060 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:33,161 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:33,262 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:33,262 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:33,363 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:33,464 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:33,465 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:33,566 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:33,667 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:33,668 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:33,769 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:33,870 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:33,871 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:33,972 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:33,972 - rotary_actuator - INFO - [92m--- 0.20295119285583496 seconds ---[0m
+2023-04-25 17:51:33,972 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:34,073 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:34,175 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:34,176 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:34,277 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:34,377 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:34,378 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:34,479 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:34,580 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:34,581 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:34,683 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:34,784 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:34,784 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:34,885 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:34,886 - rotary_actuator - INFO - [92m--- 0.20341968536376953 seconds ---[0m
+2023-04-25 17:51:34,886 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:34,987 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:35,088 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:35,088 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:35,189 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:35,290 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:35,291 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:35,392 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:35,493 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:35,493 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:35,594 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:35,695 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:35,696 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:35,798 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:35,899 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:35,900 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:36,001 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:36,002 - rotary_actuator - INFO - [92m--- 0.20421648025512695 seconds ---[0m
+2023-04-25 17:51:36,002 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:36,103 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:36,205 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:36,205 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:36,306 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:36,408 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:36,409 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:36,509 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:36,610 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:36,611 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:36,712 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:36,813 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:36,814 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:36,915 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:36,916 - rotary_actuator - INFO - [92m--- 0.20387840270996094 seconds ---[0m
+2023-04-25 17:51:36,916 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:37,018 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:37,119 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:37,120 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:37,220 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:37,321 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:37,322 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:37,424 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:37,525 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:37,525 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:37,626 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:37,727 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:37,727 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:37,828 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:37,930 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:37,930 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:38,031 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:38,031 - rotary_actuator - INFO - [92m--- 0.2037646770477295 seconds ---[0m
+2023-04-25 17:51:38,032 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:38,133 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:38,233 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:38,234 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:38,335 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:38,436 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:38,437 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:38,538 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:38,639 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:38,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:38,741 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:38,842 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:38,843 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:38,944 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:38,945 - rotary_actuator - INFO - [92m--- 0.20389866828918457 seconds ---[0m
+2023-04-25 17:51:38,945 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:39,046 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:39,147 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:39,149 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:39,249 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:39,350 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:39,351 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:39,452 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:39,552 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:39,553 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:39,654 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:39,755 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:39,755 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:39,857 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:39,958 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:39,958 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:40,059 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:40,060 - rotary_actuator - INFO - [92m--- 0.20343232154846191 seconds ---[0m
+2023-04-25 17:51:40,060 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:40,162 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:40,262 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:40,263 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:40,364 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:40,465 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:40,465 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:40,567 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:40,668 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:40,669 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:40,770 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:40,871 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:40,872 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:40,973 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:40,973 - rotary_actuator - INFO - [92m--- 0.203352689743042 seconds ---[0m
+2023-04-25 17:51:40,973 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:41,074 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:41,176 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:41,177 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:41,278 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:41,378 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:41,378 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:53,165 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:53,165 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:53,266 - rotary_actuator - INFO - Moving 8000 microsteps
+2023-04-25 17:51:53,267 - rotary_actuator - DEBUG - String sent: 2MR 8000
+
+2023-04-25 17:51:53,367 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:53,468 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:53,569 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:53,569 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:53,670 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:53,771 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:53,772 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:53,873 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:53,974 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:53,974 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:54,075 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:54,076 - rotary_actuator - INFO - [92m--- 0.20279598236083984 seconds ---[0m
+2023-04-25 17:51:54,076 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:54,178 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:54,278 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:54,279 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:54,380 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:54,481 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:54,481 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:54,582 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:54,582 - rotary_actuator - INFO - [92m--- 0.20259594917297363 seconds ---[0m
+2023-04-25 17:51:54,583 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:54,684 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:54,785 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:54,786 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:54,887 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:54,988 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:54,988 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:55,089 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:55,089 - rotary_actuator - INFO - [92m--- 0.20259952545166016 seconds ---[0m
+2023-04-25 17:51:55,090 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:55,191 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:55,292 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:55,293 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:55,395 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:55,495 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:55,496 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:55,597 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:55,597 - rotary_actuator - INFO - [92m--- 0.20286321640014648 seconds ---[0m
+2023-04-25 17:51:55,598 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:55,699 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:55,800 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:55,800 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:55,902 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:55,902 - rotary_actuator - INFO - [92m--- 0.2035505771636963 seconds ---[0m
+2023-04-25 17:51:55,913 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:56,013 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:56,115 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:56,115 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:56,216 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:56,317 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:56,318 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:56,419 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:56,419 - rotary_actuator - INFO - [92m--- 0.20326542854309082 seconds ---[0m
+2023-04-25 17:51:56,420 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:56,521 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:56,622 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:56,623 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:56,724 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:56,824 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:56,825 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:56,926 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:56,926 - rotary_actuator - INFO - [92m--- 0.20247292518615723 seconds ---[0m
+2023-04-25 17:51:56,927 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:57,028 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:57,129 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:57,130 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:57,230 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:57,331 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:57,332 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:57,433 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:57,434 - rotary_actuator - INFO - [92m--- 0.20362377166748047 seconds ---[0m
+2023-04-25 17:51:57,435 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:57,536 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:57,637 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:57,638 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:57,738 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:57,839 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:57,840 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:57,941 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:57,942 - rotary_actuator - INFO - [92m--- 0.20365357398986816 seconds ---[0m
+2023-04-25 17:51:57,943 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:58,043 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:58,144 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:58,145 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:58,246 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:58,347 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:58,348 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:58,449 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:58,449 - rotary_actuator - INFO - [92m--- 0.20337891578674316 seconds ---[0m
+2023-04-25 17:51:58,450 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:58,551 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:58,653 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:58,654 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:58,755 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:58,856 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:58,857 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:58,958 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:58,958 - rotary_actuator - INFO - [92m--- 0.2031538486480713 seconds ---[0m
+2023-04-25 17:51:58,958 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:59,059 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:59,161 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:59,161 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:59,262 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:59,363 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:59,364 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:59,464 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:59,465 - rotary_actuator - INFO - [92m--- 0.20255494117736816 seconds ---[0m
+2023-04-25 17:51:59,465 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:59,566 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:59,668 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:51:59,669 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:51:59,769 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:51:59,870 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:51:59,871 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:51:59,972 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:51:59,972 - rotary_actuator - INFO - [92m--- 0.20299339294433594 seconds ---[0m
+2023-04-25 17:51:59,972 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:00,074 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:00,175 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:00,176 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:00,277 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:00,378 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:00,378 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:00,479 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:00,479 - rotary_actuator - INFO - [92m--- 0.20274019241333008 seconds ---[0m
+2023-04-25 17:52:00,479 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:00,581 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:00,682 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:00,683 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:00,783 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:00,885 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:00,886 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:00,986 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:00,987 - rotary_actuator - INFO - [92m--- 0.20334839820861816 seconds ---[0m
+2023-04-25 17:52:00,994 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:01,095 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:01,197 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:01,197 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:01,298 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:01,400 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:01,401 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:01,502 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:01,502 - rotary_actuator - INFO - [92m--- 0.20363783836364746 seconds ---[0m
+2023-04-25 17:52:01,502 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:01,603 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:01,704 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:01,704 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:01,805 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:01,906 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:01,906 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:02,007 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:02,007 - rotary_actuator - INFO - [92m--- 0.20288968086242676 seconds ---[0m
+2023-04-25 17:52:02,007 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:02,109 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:02,209 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:02,210 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:02,311 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:02,413 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:02,414 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:02,514 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:02,514 - rotary_actuator - INFO - [92m--- 0.20397329330444336 seconds ---[0m
+2023-04-25 17:52:02,515 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:02,616 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:02,717 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:02,717 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:02,818 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:02,920 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:02,921 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:03,022 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:03,022 - rotary_actuator - INFO - [92m--- 0.20415878295898438 seconds ---[0m
+2023-04-25 17:52:03,022 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:03,123 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:03,224 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:03,224 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:03,325 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:03,426 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:03,427 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:03,528 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:03,528 - rotary_actuator - INFO - [92m--- 0.2033374309539795 seconds ---[0m
+2023-04-25 17:52:03,528 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:03,630 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:03,730 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:03,731 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:03,832 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:03,933 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:03,934 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:04,035 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:04,035 - rotary_actuator - INFO - [92m--- 0.2037334442138672 seconds ---[0m
+2023-04-25 17:52:04,036 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:04,137 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:04,238 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:04,238 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:04,339 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:04,441 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:04,441 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:04,542 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:04,542 - rotary_actuator - INFO - [92m--- 0.20358586311340332 seconds ---[0m
+2023-04-25 17:52:04,543 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:04,644 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:04,745 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:04,745 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:04,846 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:04,948 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:04,949 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:05,049 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:05,050 - rotary_actuator - INFO - [92m--- 0.2036283016204834 seconds ---[0m
+2023-04-25 17:52:05,050 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:05,152 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:05,252 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:05,253 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:05,354 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:05,455 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:05,455 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:05,556 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:05,557 - rotary_actuator - INFO - [92m--- 0.20339345932006836 seconds ---[0m
+2023-04-25 17:52:05,557 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:05,659 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:05,760 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:05,760 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:05,861 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:05,962 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:05,962 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:06,063 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:06,063 - rotary_actuator - INFO - [92m--- 0.2023007869720459 seconds ---[0m
+2023-04-25 17:52:06,063 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:06,165 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:06,265 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:06,266 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:06,367 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:06,468 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:06,468 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:06,569 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:06,569 - rotary_actuator - INFO - [92m--- 0.2029247283935547 seconds ---[0m
+2023-04-25 17:52:06,570 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:06,672 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:06,772 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:06,773 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:06,874 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:06,975 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:06,975 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:07,076 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:07,077 - rotary_actuator - INFO - [92m--- 0.20304584503173828 seconds ---[0m
+2023-04-25 17:52:07,077 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:07,179 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:07,280 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:07,280 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:07,381 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:07,482 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:07,482 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:07,583 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:07,584 - rotary_actuator - INFO - [92m--- 0.20328021049499512 seconds ---[0m
+2023-04-25 17:52:07,585 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:07,687 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:07,788 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:07,788 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:07,889 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:07,990 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:07,990 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:08,091 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:08,092 - rotary_actuator - INFO - [92m--- 0.20269179344177246 seconds ---[0m
+2023-04-25 17:52:08,093 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:08,194 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:08,295 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:08,296 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:08,397 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:08,497 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:08,498 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:08,599 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:08,600 - rotary_actuator - INFO - [92m--- 0.2028965950012207 seconds ---[0m
+2023-04-25 17:52:08,600 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:08,701 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:08,802 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:08,803 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:08,904 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:09,005 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:09,005 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:09,106 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:09,107 - rotary_actuator - INFO - [92m--- 0.2030344009399414 seconds ---[0m
+2023-04-25 17:52:09,108 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:09,208 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:09,309 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:09,310 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:09,411 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:09,512 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:09,513 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:09,614 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:09,614 - rotary_actuator - INFO - [92m--- 0.2030942440032959 seconds ---[0m
+2023-04-25 17:52:09,615 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:09,715 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:09,816 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:09,817 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:09,919 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:10,019 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:10,019 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:10,120 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:10,120 - rotary_actuator - INFO - [92m--- 0.20204663276672363 seconds ---[0m
+2023-04-25 17:52:10,120 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:10,221 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:10,322 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:10,323 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:10,425 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:10,526 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:10,526 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:10,627 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:10,627 - rotary_actuator - INFO - [92m--- 0.20359253883361816 seconds ---[0m
+2023-04-25 17:52:10,628 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:10,729 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:10,829 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:10,830 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:10,931 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:10,933 - rotary_actuator - INFO - [92m--- 0.20421051979064941 seconds ---[0m
+2023-04-25 17:52:10,934 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:11,034 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:11,136 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:11,136 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:11,237 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:11,338 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:11,339 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:11,447 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:11,447 - rotary_actuator - INFO - [92m--- 0.2102048397064209 seconds ---[0m
+2023-04-25 17:52:11,448 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:11,549 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:11,650 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:11,651 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:11,752 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:11,853 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:11,854 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:11,954 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:11,954 - rotary_actuator - INFO - [92m--- 0.202545166015625 seconds ---[0m
+2023-04-25 17:52:11,955 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:12,056 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:12,157 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:12,158 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:12,259 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:12,360 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:12,361 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:12,462 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:12,462 - rotary_actuator - INFO - [92m--- 0.20294618606567383 seconds ---[0m
+2023-04-25 17:52:12,462 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:12,564 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:12,665 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:12,666 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:12,767 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:12,868 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:12,869 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:12,969 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:12,970 - rotary_actuator - INFO - [92m--- 0.2027113437652588 seconds ---[0m
+2023-04-25 17:52:12,970 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:13,071 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:13,172 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:13,172 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:13,273 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:13,374 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:13,375 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:13,476 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:13,476 - rotary_actuator - INFO - [92m--- 0.20333313941955566 seconds ---[0m
+2023-04-25 17:52:13,476 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:13,578 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:13,679 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:13,680 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:13,781 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:13,882 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:13,882 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:13,983 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:13,983 - rotary_actuator - INFO - [92m--- 0.20265817642211914 seconds ---[0m
+2023-04-25 17:52:13,983 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:14,085 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:14,186 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:14,187 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:14,288 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:14,389 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:14,390 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:14,491 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:14,491 - rotary_actuator - INFO - [92m--- 0.20328783988952637 seconds ---[0m
+2023-04-25 17:52:14,491 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:14,592 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:14,694 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:14,695 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:14,796 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:14,897 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:14,898 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:14,999 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:14,999 - rotary_actuator - INFO - [92m--- 0.2032914161682129 seconds ---[0m
+2023-04-25 17:52:14,999 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:15,100 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:15,202 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:15,202 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:15,303 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:15,405 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:15,407 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:15,507 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:15,507 - rotary_actuator - INFO - [92m--- 0.20433735847473145 seconds ---[0m
+2023-04-25 17:52:15,508 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:15,609 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:15,710 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:15,711 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:15,812 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:15,913 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:15,914 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:16,015 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:16,016 - rotary_actuator - INFO - [92m--- 0.2036144733428955 seconds ---[0m
+2023-04-25 17:52:16,016 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:16,117 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:16,218 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:16,218 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:16,319 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:16,421 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:16,422 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:16,529 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:16,529 - rotary_actuator - INFO - [92m--- 0.21024179458618164 seconds ---[0m
+2023-04-25 17:52:16,530 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:16,631 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:16,732 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:16,732 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:16,833 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:16,934 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:16,935 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:17,036 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:17,036 - rotary_actuator - INFO - [92m--- 0.20346331596374512 seconds ---[0m
+2023-04-25 17:52:17,036 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:17,137 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:17,238 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:17,238 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:17,339 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:17,441 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:17,441 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:17,542 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:17,542 - rotary_actuator - INFO - [92m--- 0.20346641540527344 seconds ---[0m
+2023-04-25 17:52:17,543 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:17,644 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:17,745 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:17,746 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:17,847 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:17,948 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:17,949 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:18,050 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:18,050 - rotary_actuator - INFO - [92m--- 0.20382428169250488 seconds ---[0m
+2023-04-25 17:52:18,051 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:39,083 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:39,084 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:39,184 - rotary_actuator - INFO - Moving -8000 microsteps
+2023-04-25 17:52:39,185 - rotary_actuator - DEBUG - String sent: 2MR -8000
+
+2023-04-25 17:52:39,285 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:39,386 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:39,487 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:39,487 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:39,588 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:39,588 - rotary_actuator - INFO - [92m--- 0.20243048667907715 seconds ---[0m
+2023-04-25 17:52:39,589 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:39,690 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:39,790 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:39,790 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:39,891 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:39,992 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:39,992 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:40,093 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:40,194 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:40,195 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:40,296 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:40,397 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:40,398 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:40,499 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:40,499 - rotary_actuator - INFO - [92m--- 0.20345473289489746 seconds ---[0m
+2023-04-25 17:52:40,499 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:40,600 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:40,701 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:40,702 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:40,803 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:40,904 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:40,905 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:41,005 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:41,106 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:41,107 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:41,209 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:41,309 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:41,310 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:41,411 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:41,512 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:41,513 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:41,614 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:41,614 - rotary_actuator - INFO - [92m--- 0.2030942440032959 seconds ---[0m
+2023-04-25 17:52:41,615 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:41,716 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:41,817 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:41,817 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:41,919 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:42,020 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:42,020 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:42,121 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:42,222 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:42,222 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:42,323 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:42,424 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:42,424 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:42,525 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:42,525 - rotary_actuator - INFO - [92m--- 0.20209836959838867 seconds ---[0m
+2023-04-25 17:52:42,525 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:42,626 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:42,727 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:42,727 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:42,828 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:42,930 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:42,930 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:43,031 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:43,132 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:43,133 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:43,234 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:43,335 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:43,336 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:43,437 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:43,538 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:43,538 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:43,639 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:43,639 - rotary_actuator - INFO - [92m--- 0.2027275562286377 seconds ---[0m
+2023-04-25 17:52:43,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:43,741 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:43,842 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:43,842 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:43,944 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:44,045 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:44,045 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:44,146 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:44,247 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:44,247 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:44,348 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:44,449 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:44,450 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:44,551 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:44,552 - rotary_actuator - INFO - [92m--- 0.20372986793518066 seconds ---[0m
+2023-04-25 17:52:44,552 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:44,653 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:44,754 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:44,754 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:44,856 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:44,957 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:44,957 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:45,058 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:45,159 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:45,160 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:45,261 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:45,362 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:45,363 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:45,464 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:45,565 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:45,566 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:45,667 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:45,667 - rotary_actuator - INFO - [92m--- 0.20374011993408203 seconds ---[0m
+2023-04-25 17:52:45,668 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:45,769 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:45,870 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:45,871 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:45,971 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:46,073 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:46,073 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:46,175 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:46,276 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:46,276 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:46,377 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:46,478 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:46,478 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:46,580 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:46,580 - rotary_actuator - INFO - [92m--- 0.20324993133544922 seconds ---[0m
+2023-04-25 17:52:46,581 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:46,683 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:46,784 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:46,784 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:46,886 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:46,987 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:46,987 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:47,088 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:47,189 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:47,190 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:47,291 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:47,392 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:47,393 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:47,494 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:47,595 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:47,596 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:47,697 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:47,697 - rotary_actuator - INFO - [92m--- 0.20383334159851074 seconds ---[0m
+2023-04-25 17:52:47,698 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:47,799 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:47,900 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:47,901 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:48,002 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:48,103 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:48,104 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:48,205 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:48,306 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:48,307 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:48,408 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:48,509 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:48,509 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:48,610 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:48,611 - rotary_actuator - INFO - [92m--- 0.20303606986999512 seconds ---[0m
+2023-04-25 17:52:48,612 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:48,713 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:48,814 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:48,814 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:48,915 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:49,016 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:49,016 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:49,117 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:49,218 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:49,218 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:49,319 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:49,421 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:49,422 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:49,523 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:49,523 - rotary_actuator - INFO - [92m--- 0.2039334774017334 seconds ---[0m
+2023-04-25 17:52:49,523 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:49,624 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:49,725 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:49,726 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:49,827 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:49,928 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:49,929 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:50,030 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:50,131 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:50,132 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:50,233 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:50,334 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:50,335 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:50,436 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:50,537 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:50,537 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:50,639 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:50,639 - rotary_actuator - INFO - [92m--- 0.2037827968597412 seconds ---[0m
+2023-04-25 17:52:50,640 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:50,741 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:50,842 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:50,843 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:50,944 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:51,045 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:51,045 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:51,146 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:51,247 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:51,248 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:51,349 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:51,450 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:51,451 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:51,552 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:51,553 - rotary_actuator - INFO - [92m--- 0.20390844345092773 seconds ---[0m
+2023-04-25 17:52:51,553 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:51,655 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:51,756 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:51,757 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:51,858 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:51,959 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:51,959 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:52,060 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:52,162 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:52,163 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:52,264 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:52,365 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:52,365 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:52,466 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:52,567 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:52,567 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:52,668 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:52,668 - rotary_actuator - INFO - [92m--- 0.20211410522460938 seconds ---[0m
+2023-04-25 17:52:52,668 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:52,769 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:52,871 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:52,872 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:52,972 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:53,073 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:53,073 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:53,174 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:53,275 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:53,275 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:53,377 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:53,478 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:53,478 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:53,579 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:53,579 - rotary_actuator - INFO - [92m--- 0.20282196998596191 seconds ---[0m
+2023-04-25 17:52:53,580 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:53,682 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:53,783 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:53,783 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:53,884 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:53,985 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:53,985 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:54,087 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:54,188 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:54,189 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:54,290 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:54,391 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:54,392 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:54,492 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:54,594 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:54,594 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:54,695 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:54,695 - rotary_actuator - INFO - [92m--- 0.2030191421508789 seconds ---[0m
+2023-04-25 17:52:54,695 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:54,797 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:54,898 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:54,899 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:55,000 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:55,101 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:55,102 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:55,209 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:55,310 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:55,311 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:55,413 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:55,513 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:55,514 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:55,615 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:55,615 - rotary_actuator - INFO - [92m--- 0.20281195640563965 seconds ---[0m
+2023-04-25 17:52:55,616 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:55,716 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:55,817 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:55,818 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:55,919 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:56,020 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:56,021 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:56,122 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:56,222 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:56,223 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:56,323 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:56,425 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:56,426 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:56,526 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:56,527 - rotary_actuator - INFO - [92m--- 0.20344018936157227 seconds ---[0m
+2023-04-25 17:52:56,527 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:56,628 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:56,729 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:56,729 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:56,829 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:56,930 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:56,931 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:57,032 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:57,133 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:57,134 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:57,235 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:57,336 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:57,337 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:57,438 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:57,539 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:57,540 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:57,641 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:57,641 - rotary_actuator - INFO - [92m--- 0.20334601402282715 seconds ---[0m
+2023-04-25 17:52:57,642 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:57,743 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:57,844 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:57,845 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:57,946 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:58,047 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:58,047 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:58,148 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:58,249 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:58,249 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:58,350 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:58,451 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:58,452 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:58,553 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:58,553 - rotary_actuator - INFO - [92m--- 0.20357656478881836 seconds ---[0m
+2023-04-25 17:52:58,554 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:58,655 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:58,756 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:58,756 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:58,857 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:58,958 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:58,958 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:59,059 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:59,160 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:59,161 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:59,262 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:59,363 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:59,364 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:59,465 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:59,566 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:52:59,567 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:52:59,668 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:52:59,669 - rotary_actuator - INFO - [92m--- 0.2038862705230713 seconds ---[0m
+2023-04-25 17:52:59,670 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:59,770 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:52:59,871 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:52:59,872 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:52:59,973 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:00,074 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:00,074 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:00,176 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:00,277 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:00,277 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:00,379 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:00,479 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:00,480 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:00,580 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:00,581 - rotary_actuator - INFO - [92m--- 0.20336508750915527 seconds ---[0m
+2023-04-25 17:53:00,582 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:00,683 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:00,784 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:00,784 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:00,885 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:00,986 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:00,986 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:01,088 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:01,189 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:01,190 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:01,291 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:01,392 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:01,392 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:01,493 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:01,594 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:01,595 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:01,696 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:01,697 - rotary_actuator - INFO - [92m--- 0.20333623886108398 seconds ---[0m
+2023-04-25 17:53:01,697 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:01,799 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:01,900 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:01,900 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:02,001 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:02,102 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:02,103 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:02,204 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:02,304 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:02,305 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:02,406 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:02,508 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:02,508 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:02,609 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:02,610 - rotary_actuator - INFO - [92m--- 0.203383207321167 seconds ---[0m
+2023-04-25 17:53:02,610 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:02,711 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:02,811 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:02,811 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:02,913 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:03,013 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:03,013 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:03,115 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:03,216 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:03,216 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:03,317 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:03,419 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:03,419 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:03,520 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:03,621 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:03,622 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:03,723 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:03,723 - rotary_actuator - INFO - [92m--- 0.20292186737060547 seconds ---[0m
+2023-04-25 17:53:03,723 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:03,824 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:03,926 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:03,927 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:12,665 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:12,666 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:12,767 - rotary_actuator - INFO - Moving 8000 microsteps
+2023-04-25 17:53:12,768 - rotary_actuator - DEBUG - String sent: 2MR 8000
+
+2023-04-25 17:53:12,869 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:12,969 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:13,070 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:13,070 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:13,171 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:13,272 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:13,272 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:13,373 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:13,473 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:13,473 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:13,574 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:13,575 - rotary_actuator - INFO - [92m--- 0.20215988159179688 seconds ---[0m
+2023-04-25 17:53:13,575 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:13,676 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:13,777 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:13,777 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:13,878 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:13,979 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:13,979 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:14,080 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:14,181 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:14,182 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:14,283 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:14,384 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:14,385 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:14,485 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:14,586 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:14,587 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:14,688 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:14,688 - rotary_actuator - INFO - [92m--- 0.20280957221984863 seconds ---[0m
+2023-04-25 17:53:14,689 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:14,789 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:14,890 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:14,891 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:14,992 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:15,093 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:15,093 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:15,194 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:15,295 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:15,296 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:15,398 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:15,499 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:15,499 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:15,600 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:15,600 - rotary_actuator - INFO - [92m--- 0.2035508155822754 seconds ---[0m
+2023-04-25 17:53:15,601 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:15,702 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:15,804 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:15,804 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:15,906 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:16,007 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:16,007 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:16,108 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:16,209 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:16,209 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:16,310 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:16,412 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:16,413 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:16,514 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:16,615 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:16,616 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:16,716 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:16,717 - rotary_actuator - INFO - [92m--- 0.2029867172241211 seconds ---[0m
+2023-04-25 17:53:16,717 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:16,818 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:16,920 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:16,920 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:17,021 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:17,124 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:17,125 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:17,225 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:17,326 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:17,327 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:17,429 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:17,529 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:17,530 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:17,631 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:17,631 - rotary_actuator - INFO - [92m--- 0.2030942440032959 seconds ---[0m
+2023-04-25 17:53:17,632 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:17,732 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:17,833 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:17,834 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:17,936 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:18,036 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:18,037 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:18,137 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:18,238 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:18,238 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:18,339 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:18,440 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:18,441 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:18,542 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:18,643 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:18,644 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:18,745 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:18,745 - rotary_actuator - INFO - [92m--- 0.20317935943603516 seconds ---[0m
+2023-04-25 17:53:18,745 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:18,847 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:18,948 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:18,949 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:19,050 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:19,151 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:19,152 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:19,252 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:19,354 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:19,355 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:19,456 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:19,557 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:19,557 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:19,659 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:19,659 - rotary_actuator - INFO - [92m--- 0.20369219779968262 seconds ---[0m
+2023-04-25 17:53:19,660 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:19,761 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:19,862 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:19,863 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:19,964 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:20,065 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:20,066 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:20,167 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:20,268 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:20,268 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:20,369 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:20,470 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:20,470 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:20,571 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:20,572 - rotary_actuator - INFO - [92m--- 0.2029726505279541 seconds ---[0m
+2023-04-25 17:53:20,573 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:20,674 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:20,775 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:20,776 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:20,877 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:20,978 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:20,979 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:21,080 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:21,181 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:21,182 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:21,283 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:21,384 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:21,385 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:21,485 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:21,587 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:21,587 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:21,689 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:21,689 - rotary_actuator - INFO - [92m--- 0.20353293418884277 seconds ---[0m
+2023-04-25 17:53:21,690 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:21,790 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:21,891 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:21,892 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:21,993 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:22,094 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:22,095 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:22,196 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:22,297 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:22,298 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:22,399 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:22,500 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:22,500 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:22,601 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:22,602 - rotary_actuator - INFO - [92m--- 0.20299124717712402 seconds ---[0m
+2023-04-25 17:53:22,603 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:22,704 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:22,805 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:22,805 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:22,907 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:23,008 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:23,008 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:23,109 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:23,210 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:23,210 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:23,312 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:23,413 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:23,414 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:23,514 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:23,615 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:23,616 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:23,717 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:23,717 - rotary_actuator - INFO - [92m--- 0.20292234420776367 seconds ---[0m
+2023-04-25 17:53:23,717 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:23,819 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:23,920 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:23,921 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:24,022 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:24,123 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:24,124 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:24,224 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:24,326 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:24,327 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:24,428 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:24,529 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:24,529 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:24,630 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:24,630 - rotary_actuator - INFO - [92m--- 0.20282244682312012 seconds ---[0m
+2023-04-25 17:53:24,631 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:24,732 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:24,833 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:24,834 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:24,935 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:25,036 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:25,036 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:25,138 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:25,239 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:25,239 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:25,341 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:25,442 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:25,443 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:25,543 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:25,645 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:25,646 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:25,746 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:25,746 - rotary_actuator - INFO - [92m--- 0.2030503749847412 seconds ---[0m
+2023-04-25 17:53:25,747 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:25,848 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:25,949 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:25,950 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:26,051 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:26,152 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:26,153 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:26,254 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:26,355 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:26,356 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:26,457 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:26,558 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:26,559 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:26,660 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:26,661 - rotary_actuator - INFO - [92m--- 0.20382118225097656 seconds ---[0m
+2023-04-25 17:53:26,661 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:26,762 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:26,863 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:26,864 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:26,964 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:27,065 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:27,066 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:27,168 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:27,269 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:27,269 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:27,370 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:27,471 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:27,471 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:27,572 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:27,674 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:27,675 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:27,776 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:27,776 - rotary_actuator - INFO - [92m--- 0.20439863204956055 seconds ---[0m
+2023-04-25 17:53:27,777 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:27,878 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:27,979 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:27,979 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:28,080 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:28,182 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:28,183 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:28,284 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:28,385 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:28,385 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:28,486 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:28,587 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:28,588 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:28,689 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:28,689 - rotary_actuator - INFO - [92m--- 0.20337510108947754 seconds ---[0m
+2023-04-25 17:53:28,690 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:28,791 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:28,892 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:28,893 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:28,994 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:29,095 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:29,096 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:29,197 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:29,298 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:29,299 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:29,400 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:29,501 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:29,501 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:29,602 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:29,603 - rotary_actuator - INFO - [92m--- 0.20302629470825195 seconds ---[0m
+2023-04-25 17:53:29,603 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:29,705 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:29,805 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:29,806 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:29,907 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:30,008 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:30,008 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:30,110 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:30,210 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:30,211 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:30,311 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:30,412 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:30,413 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:30,513 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:30,615 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:30,616 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:30,717 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:30,717 - rotary_actuator - INFO - [92m--- 0.20354151725769043 seconds ---[0m
+2023-04-25 17:53:30,717 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:30,818 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:30,919 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:30,920 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:31,021 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:31,121 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:31,122 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:31,223 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:31,324 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:31,325 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:31,426 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:31,527 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:31,527 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:31,628 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:31,629 - rotary_actuator - INFO - [92m--- 0.2028641700744629 seconds ---[0m
+2023-04-25 17:53:31,629 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:31,730 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:31,830 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:31,831 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:31,933 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:32,034 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:32,034 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:32,135 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:32,236 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:32,236 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:32,338 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:32,439 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:32,440 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:32,540 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:32,641 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:32,642 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:32,743 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:32,743 - rotary_actuator - INFO - [92m--- 0.20271921157836914 seconds ---[0m
+2023-04-25 17:53:32,743 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:32,845 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:32,946 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:32,947 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:33,048 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:33,149 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:33,150 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:33,250 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:33,351 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:33,351 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:33,452 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:33,553 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:33,554 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:33,655 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:33,655 - rotary_actuator - INFO - [92m--- 0.20383882522583008 seconds ---[0m
+2023-04-25 17:53:33,656 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:33,757 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:33,857 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:33,858 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:33,959 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:34,060 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:34,061 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:34,162 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:34,263 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:34,263 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:34,364 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:34,465 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:34,465 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:34,566 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:34,667 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:34,668 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:34,769 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:34,769 - rotary_actuator - INFO - [92m--- 0.20319676399230957 seconds ---[0m
+2023-04-25 17:53:34,769 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:34,870 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:34,971 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:34,971 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:35,073 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:35,174 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:35,175 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:35,276 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:35,377 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:35,378 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:35,478 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:35,580 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:35,580 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:35,682 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:35,682 - rotary_actuator - INFO - [92m--- 0.20361995697021484 seconds ---[0m
+2023-04-25 17:53:35,683 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:35,783 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:35,885 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:35,886 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:35,986 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:36,088 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:36,088 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:36,190 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:36,291 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:36,291 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:36,392 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:36,493 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:36,493 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:36,594 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:36,696 - rotary_actuator - INFO - [92mmatching________start______[0m
+2023-04-25 17:53:36,696 - rotary_actuator - DEBUG - String sent: 2PR P
+
+2023-04-25 17:53:36,797 - rotary_actuator - INFO - [92mmatching________end_______[0m
+2023-04-25 17:53:36,797 - rotary_actuator - INFO - [92m--- 0.20346641540527344 seconds ---[0m
+2023-04-25 17:53:36,798 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:36,899 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:37,000 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:37,000 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:37,102 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:37,202 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:37,203 - rotary_actuator - DEBUG - String sent: 2PR MV
+
+2023-04-25 17:53:37,304 - rotary_actuator - DEBUG - String sent: 2PR I3
+
+2023-04-25 17:53:37,405 - rotary_actuator - ERROR - ______ not a trigger ___________
+2023-04-25 17:53:37,406 - rotary_actuator - DEBUG - String sent: 2PR MV
+

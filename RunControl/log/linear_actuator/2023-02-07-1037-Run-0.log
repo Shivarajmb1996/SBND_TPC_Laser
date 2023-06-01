@@ -1,0 +1,260 @@
+2023-02-07 10:37:46,149 - linear_actuator - INFO - started logger
+2023-02-07 10:37:46,149 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-02-07 10:37:46,149 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_linear_actuator.json)
+2023-02-07 10:37:48,165 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-02-07 10:37:48,166 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-02-07 10:37:49,171 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-02-07 10:37:51,801 - linear_actuator - INFO - ---------------- init axis -----------------
+2023-02-07 10:37:51,801 - linear_actuator - DEBUG - String sent: 1MS=256
+
+2023-02-07 10:37:51,802 - linear_actuator - DEBUG - String sent: 1PR MS
+
+2023-02-07 10:37:51,903 - linear_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-02-07 10:37:51,904 - linear_actuator - DEBUG - String sent: 1A=400
+
+2023-02-07 10:37:51,904 - linear_actuator - DEBUG - String sent: 1PR A
+
+2023-02-07 10:37:52,005 - linear_actuator - INFO - Set A=400[92m -> OK[0m
+2023-02-07 10:37:52,006 - linear_actuator - DEBUG - String sent: 1D=700
+
+2023-02-07 10:37:52,006 - linear_actuator - DEBUG - String sent: 1PR D
+
+2023-02-07 10:37:52,107 - linear_actuator - INFO - Set D=700[92m -> OK[0m
+2023-02-07 10:37:52,108 - linear_actuator - DEBUG - String sent: 1VI=300
+
+2023-02-07 10:37:52,108 - linear_actuator - DEBUG - String sent: 1PR VI
+
+2023-02-07 10:37:52,209 - linear_actuator - INFO - Set VI=300[92m -> OK[0m
+2023-02-07 10:37:52,210 - linear_actuator - DEBUG - String sent: 1VM=800
+
+2023-02-07 10:37:52,210 - linear_actuator - DEBUG - String sent: 1PR VM
+
+2023-02-07 10:37:52,311 - linear_actuator - INFO - Set VM=800[92m -> OK[0m
+2023-02-07 10:37:52,311 - linear_actuator - DEBUG - String sent: 1HC=10
+
+2023-02-07 10:37:52,311 - linear_actuator - DEBUG - String sent: 1PR HC
+
+2023-02-07 10:37:52,412 - linear_actuator - INFO - Set HC=10[92m -> OK[0m
+2023-02-07 10:37:52,412 - linear_actuator - DEBUG - String sent: 1RC=70
+
+2023-02-07 10:37:52,413 - linear_actuator - DEBUG - String sent: 1PR RC
+
+2023-02-07 10:37:52,514 - linear_actuator - INFO - Set RC=70[92m -> OK[0m
+2023-02-07 10:37:52,514 - linear_actuator - DEBUG - String sent: 1EE=1
+
+2023-02-07 10:37:52,515 - linear_actuator - DEBUG - String sent: 1PR EE
+
+2023-02-07 10:37:52,616 - linear_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-02-07 10:37:52,616 - linear_actuator - DEBUG - String sent: 1S4=0,0,0
+
+2023-02-07 10:37:52,617 - linear_actuator - DEBUG - String sent: 1PR S4
+
+2023-02-07 10:37:52,718 - linear_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-02-07 10:37:52,718 - linear_actuator - INFO - Set S1 and S2 as limit switches for Linear Motor
+2023-02-07 10:37:52,719 - linear_actuator - DEBUG - String sent: 1S1=2,1,0
+
+2023-02-07 10:37:52,719 - linear_actuator - DEBUG - String sent: 1PR S1
+
+2023-02-07 10:37:52,820 - linear_actuator - INFO - Set S1=2,1,0[92m -> OK[0m
+2023-02-07 10:37:52,820 - linear_actuator - DEBUG - String sent: 1S2=3,1,0
+
+2023-02-07 10:37:52,821 - linear_actuator - DEBUG - String sent: 1PR S2
+
+2023-02-07 10:37:52,922 - linear_actuator - INFO - Set S2=3,1,0[92m -> OK[0m
+2023-02-07 10:37:53,423 - linear_actuator - INFO - Set trigger from Photodiode to Linear encoder.
+2023-02-07 10:37:53,424 - linear_actuator - DEBUG - String sent: 1S3=0,1,0
+
+2023-02-07 10:37:53,424 - linear_actuator - DEBUG - String sent: 1PR S3
+
+2023-02-07 10:37:53,525 - linear_actuator - INFO - Set S3=0,1,0[92m -> OK[0m
+2023-02-07 10:37:58,681 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:39,317 - linear_actuator - INFO - Moving -500 microsteps
+2023-02-07 10:38:39,318 - linear_actuator - DEBUG - String sent: 1MR -500
+
+2023-02-07 10:38:39,318 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:39,419 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:39,520 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:39,621 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:39,722 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:39,823 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:39,924 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:40,026 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:40,127 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:40,228 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:40,329 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:40,430 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:40,531 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:40,632 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:40,734 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:40,835 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:40,936 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:41,037 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:41,138 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:41,239 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:41,340 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:41,442 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:41,543 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:41,644 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:41,745 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:41,847 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:41,948 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:42,049 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:42,150 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:42,252 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:42,353 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:42,454 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:42,555 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:42,657 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:42,758 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:42,859 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:42,961 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:43,062 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:43,163 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:43,264 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:43,366 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:43,467 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:43,569 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:43,670 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:43,771 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:43,873 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:43,974 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:44,076 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:44,177 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:44,278 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:44,380 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:44,481 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:44,583 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:44,684 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:44,786 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:44,887 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:44,988 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:45,090 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:45,191 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:45,293 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:45,394 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:45,495 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:45,597 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:45,698 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:45,800 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:45,901 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:46,002 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:46,104 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:46,205 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:46,307 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:46,409 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:46,510 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:46,612 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:46,713 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:46,814 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:46,916 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:47,017 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:47,119 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:47,220 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 10:38:47,322 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:47,423 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:47,525 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:47,626 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:47,728 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:47,829 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:47,931 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:48,032 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:48,133 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:48,235 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:48,336 - linear_actuator - DEBUG - String sent: 1PR MV
+
+2023-02-07 10:38:48,438 - linear_actuator - DEBUG - String sent: 1PR I3
+
+2023-02-07 10:38:48,539 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-02-07 10:38:48,641 - linear_actuator - DEBUG - String sent: 1PR MV
+

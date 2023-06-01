@@ -1,0 +1,6 @@
+2023-04-05 15:45:33,974 - linear_actuator - INFO - started logger
+2023-04-05 15:45:33,975 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-05 15:45:33,975 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_linear_actuator.json)
+2023-04-05 15:45:35,065 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-05 15:45:35,066 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-05 15:45:36,070 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened

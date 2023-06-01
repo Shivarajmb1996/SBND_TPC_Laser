@@ -1,0 +1,9 @@
+2021-09-13 16:55:26,656 - laser - INFO - started logger
+2021-09-13 16:55:26,657 - laser - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 16:55:26,657 - laser - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 16:55:27,660 - laser - INFO - Com port (/dev/ttyUSB0) opened
+2021-09-13 16:55:27,661 - laser - DEBUG - String sent: SE
+2021-09-13 16:55:34,099 - laser - INFO - Laser status is good
+2021-09-13 16:55:34,100 - laser - DEBUG - String sent: ST 1
+2021-09-13 16:55:49,051 - laser - INFO - Set start=1 -> OK
+2021-09-13 16:55:57,587 - laser - DEBUG - String sent: ST 0

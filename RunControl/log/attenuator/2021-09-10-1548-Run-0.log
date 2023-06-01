@@ -1,0 +1,21 @@
+2021-09-10 15:48:08,736 - attenuator - INFO - started logger
+2021-09-10 15:48:08,736 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-10 15:48:08,736 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-10 15:48:08,736 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-10 15:48:08,736 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-10 15:48:09,738 - attenuator - INFO - Com port (/dev/ttyUSB2) opened
+2021-09-10 15:48:09,739 - attenuator - INFO - Motor on
+2021-09-10 15:48:09,739 - attenuator - DEBUG - String sent: en 1
+2021-09-10 15:49:31,247 - attenuator - DEBUG - String sent: p
+2021-09-10 15:51:01,480 - attenuator - DEBUG - String sent: p
+2021-09-10 15:51:20,302 - attenuator - DEBUG - String sent: p
+2021-09-10 15:51:37,172 - attenuator - DEBUG - String sent: p
+2021-09-10 15:52:31,094 - attenuator - DEBUG - String sent: p
+2021-09-10 15:53:17,322 - attenuator - DEBUG - String sent: p
+2021-09-10 15:56:18,535 - attenuator - DEBUG - String sent: p
+2021-09-10 15:56:38,353 - attenuator - DEBUG - String sent: p
+2021-09-10 15:56:46,181 - attenuator - DEBUG - String sent: p
+2021-09-10 15:57:24,935 - attenuator - DEBUG - String sent: p
+2021-09-10 15:57:35,171 - attenuator - DEBUG - String sent: p
+2021-09-10 15:57:57,136 - attenuator - DEBUG - String sent: p
+2021-09-10 15:58:13,106 - attenuator - DEBUG - String sent: p

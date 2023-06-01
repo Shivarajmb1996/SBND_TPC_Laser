@@ -1,0 +1,36 @@
+2022-11-21 11:19:18,667 - rotary_actuator - INFO - started logger
+2022-11-21 11:19:18,667 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-21 11:19:18,667 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2022-11-21 11:19:23,428 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-21 11:19:23,429 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2022-11-21 11:19:24,431 - rotary_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2022-11-21 11:19:24,432 - rotary_actuator - INFO - ---------------- init axis -----------------
+2022-11-21 11:19:24,433 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2022-11-21 11:19:24,433 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2022-11-21 11:19:24,534 - rotary_actuator - ERROR - Set MS=256 failed
+2022-11-21 11:19:24,534 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2022-11-21 11:19:24,535 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2022-11-21 11:19:24,636 - rotary_actuator - ERROR - Set A=500 failed
+2022-11-21 11:19:24,636 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2022-11-21 11:19:24,636 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2022-11-21 11:19:24,737 - rotary_actuator - ERROR - Set D=500 failed
+2022-11-21 11:19:24,738 - rotary_actuator - DEBUG - String sent: 2VI=500
+
+2022-11-21 11:19:24,738 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2022-11-21 11:19:24,839 - rotary_actuator - ERROR - Set VI=500 failed
+2022-11-21 11:19:24,840 - rotary_actuator - DEBUG - String sent: 2VM=1000
+
+2022-11-21 11:19:24,840 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2022-11-21 11:19:24,941 - rotary_actuator - ERROR - Set VM=1000 failed
+2022-11-21 11:19:24,941 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2022-11-21 11:19:24,942 - rotary_actuator - DEBUG - String sent: 2PR HC
+

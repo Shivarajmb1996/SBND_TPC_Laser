@@ -1,0 +1,24 @@
+2023-04-05 16:12:43,342 - rotary_actuator - INFO - started logger
+2023-04-05 16:12:43,342 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-05 16:12:43,343 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2023-04-05 16:12:48,288 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-05 16:12:48,288 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-05 16:12:49,291 - rotary_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-05 16:12:49,292 - rotary_actuator - INFO - ---------------- init axis -----------------
+2023-04-05 16:12:49,393 - rotary_actuator - DEBUG - String sent: 2MS=256
+2023-04-05 16:12:49,493 - rotary_actuator - DEBUG - String sent: 2PR MS
+2023-04-05 16:12:49,594 - rotary_actuator - ERROR - Set MS=256 failed
+2023-04-05 16:12:49,695 - rotary_actuator - DEBUG - String sent: 2A=500
+2023-04-05 16:12:49,796 - rotary_actuator - DEBUG - String sent: 2PR A
+2023-04-05 16:12:49,897 - rotary_actuator - ERROR - Set A=500 failed
+2023-04-05 16:12:49,998 - rotary_actuator - DEBUG - String sent: 2D=500
+2023-04-05 16:12:50,099 - rotary_actuator - DEBUG - String sent: 2PR D
+2023-04-05 16:12:50,200 - rotary_actuator - ERROR - Set D=500 failed
+2023-04-05 16:12:50,301 - rotary_actuator - DEBUG - String sent: 2VI=200
+2023-04-05 16:12:50,402 - rotary_actuator - DEBUG - String sent: 2PR VI
+2023-04-05 16:12:50,503 - rotary_actuator - ERROR - Set VI=200 failed
+2023-04-05 16:12:50,604 - rotary_actuator - DEBUG - String sent: 2VM=800
+2023-04-05 16:12:50,706 - rotary_actuator - DEBUG - String sent: 2PR VM
+2023-04-05 16:12:50,807 - rotary_actuator - ERROR - Set VM=800 failed
+2023-04-05 16:12:50,908 - rotary_actuator - DEBUG - String sent: 2HC=5
+2023-04-05 16:12:51,009 - rotary_actuator - DEBUG - String sent: 2PR HC

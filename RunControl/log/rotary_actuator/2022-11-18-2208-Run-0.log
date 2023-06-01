@@ -1,0 +1,106 @@
+2022-11-18 22:08:14,856 - rotary_actuator - INFO - started logger
+2022-11-18 22:08:14,857 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-18 22:08:14,857 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_rotary_actuator.json)
+2022-11-18 22:08:16,760 - rotary_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2022-11-18 22:08:16,768 - rotary_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2022-11-18 22:08:17,771 - rotary_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2022-11-18 22:08:17,771 - rotary_actuator - INFO - ---------------- init axis -----------------
+2022-11-18 22:08:17,771 - rotary_actuator - DEBUG - String sent: 2MS=256
+
+2022-11-18 22:08:17,772 - rotary_actuator - DEBUG - String sent: 2PR MS
+
+2022-11-18 22:08:17,872 - rotary_actuator - ERROR - Set MS=256 failed
+2022-11-18 22:08:17,872 - rotary_actuator - DEBUG - String sent: 2A=500
+
+2022-11-18 22:08:17,872 - rotary_actuator - DEBUG - String sent: 2PR A
+
+2022-11-18 22:08:17,973 - rotary_actuator - ERROR - Set A=500 failed
+2022-11-18 22:08:17,974 - rotary_actuator - DEBUG - String sent: 2D=500
+
+2022-11-18 22:08:17,974 - rotary_actuator - DEBUG - String sent: 2PR D
+
+2022-11-18 22:08:18,075 - rotary_actuator - ERROR - Set D=500 failed
+2022-11-18 22:08:18,075 - rotary_actuator - DEBUG - String sent: 2VI=500
+
+2022-11-18 22:08:18,076 - rotary_actuator - DEBUG - String sent: 2PR VI
+
+2022-11-18 22:08:18,176 - rotary_actuator - ERROR - Set VI=500 failed
+2022-11-18 22:08:18,176 - rotary_actuator - DEBUG - String sent: 2VM=1000
+
+2022-11-18 22:08:18,177 - rotary_actuator - DEBUG - String sent: 2PR VM
+
+2022-11-18 22:08:18,277 - rotary_actuator - ERROR - Set VM=1000 failed
+2022-11-18 22:08:18,278 - rotary_actuator - DEBUG - String sent: 2HC=5
+
+2022-11-18 22:08:18,278 - rotary_actuator - DEBUG - String sent: 2PR HC
+
+2022-11-18 22:08:18,379 - rotary_actuator - ERROR - Set HC=5 failed
+2022-11-18 22:08:18,380 - rotary_actuator - DEBUG - String sent: 2RC=90
+
+2022-11-18 22:08:18,380 - rotary_actuator - DEBUG - String sent: 2PR RC
+
+2022-11-18 22:08:18,481 - rotary_actuator - ERROR - Set RC=90 failed
+2022-11-18 22:08:18,481 - rotary_actuator - DEBUG - String sent: 2EE=1
+
+2022-11-18 22:08:18,482 - rotary_actuator - DEBUG - String sent: 2PR EE
+
+2022-11-18 22:08:18,583 - rotary_actuator - ERROR - Set EE=1 failed
+2022-11-18 22:08:18,583 - rotary_actuator - DEBUG - String sent: 2S3=0,0,0
+
+2022-11-18 22:08:18,584 - rotary_actuator - DEBUG - String sent: 2PR S3
+
+2022-11-18 22:08:18,685 - rotary_actuator - ERROR - Set S3=0,0,0 failed
+2022-11-18 22:08:18,685 - rotary_actuator - DEBUG - String sent: 2S4=0,0,0
+
+2022-11-18 22:08:18,686 - rotary_actuator - DEBUG - String sent: 2PR S4
+
+2022-11-18 22:08:18,787 - rotary_actuator - ERROR - Set S4=0,0,0 failed
+2022-11-18 22:08:18,787 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2022-11-18 22:08:18,787 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2022-11-18 22:08:18,788 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2022-11-18 22:08:18,888 - rotary_actuator - ERROR - Set S1=2,0,0 failed
+2022-11-18 22:08:18,888 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2022-11-18 22:08:18,888 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2022-11-18 22:08:18,989 - rotary_actuator - ERROR - Set S2=3,0,0 failed
+2022-11-18 22:08:19,490 - rotary_actuator - INFO - limit switches were not set correctly
+2022-11-18 22:08:19,490 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2022-11-18 22:08:19,490 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2022-11-18 22:08:19,490 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2022-11-18 22:08:19,591 - rotary_actuator - ERROR - Set S1=2,0,0 failed
+2022-11-18 22:08:19,592 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2022-11-18 22:08:19,592 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2022-11-18 22:08:19,693 - rotary_actuator - ERROR - Set S2=3,0,0 failed
+2022-11-18 22:08:20,194 - rotary_actuator - INFO - limit switches were not set correctly
+2022-11-18 22:08:20,194 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2022-11-18 22:08:20,194 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2022-11-18 22:08:20,194 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2022-11-18 22:08:20,295 - rotary_actuator - ERROR - Set S1=2,0,0 failed
+2022-11-18 22:08:20,296 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2022-11-18 22:08:20,296 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2022-11-18 22:08:20,397 - rotary_actuator - ERROR - Set S2=3,0,0 failed
+2022-11-18 22:08:20,898 - rotary_actuator - INFO - limit switches were not set correctly
+2022-11-18 22:08:20,898 - rotary_actuator - INFO - Set S1 and S2 as limit switches
+2022-11-18 22:08:20,899 - rotary_actuator - DEBUG - String sent: 2S1=2,0,0
+
+2022-11-18 22:08:20,899 - rotary_actuator - DEBUG - String sent: 2PR S1
+
+2022-11-18 22:08:21,000 - rotary_actuator - ERROR - Set S1=2,0,0 failed
+2022-11-18 22:08:21,000 - rotary_actuator - DEBUG - String sent: 2S2=3,0,0
+
+2022-11-18 22:08:21,000 - rotary_actuator - DEBUG - String sent: 2PR S2
+
+2022-11-18 22:08:21,101 - rotary_actuator - ERROR - Set S2=3,0,0 failed
+2022-11-18 22:08:21,602 - rotary_actuator - INFO - limit switches were not set correctly
+2022-11-18 22:08:21,602 - rotary_actuator - ERROR - Setting the limit switch failed 5 times -> exiting

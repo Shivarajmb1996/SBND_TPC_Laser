@@ -1,0 +1,70 @@
+2021-09-13 15:42:32,501 - attenuator - INFO - started logger
+2021-09-13 15:42:32,501 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:42:32,501 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 15:42:32,501 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:42:32,501 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 15:42:33,504 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 15:42:33,505 - attenuator - INFO - Motor on
+2021-09-13 15:42:33,506 - attenuator - DEBUG - String sent: en 1
+2021-09-13 15:42:33,508 - attenuator - DEBUG - String sent: p
+2021-09-13 15:42:33,627 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 15:42:37,886 - attenuator - INFO - Moving absolute to: 3899 steps
+2021-09-13 15:42:37,887 - attenuator - DEBUG - String sent: g 3899
+2021-09-13 15:42:37,990 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,092 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,199 - attenuator - INFO - Position: 7704.0
+2021-09-13 15:42:38,200 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,402 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,511 - attenuator - INFO - Position: 7452.0
+2021-09-13 15:42:38,512 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,714 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:38,820 - attenuator - INFO - Position: 7077.0
+2021-09-13 15:42:38,820 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,022 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,132 - attenuator - INFO - Position: 6707.0
+2021-09-13 15:42:39,132 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,335 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,443 - attenuator - INFO - Position: 6332.0
+2021-09-13 15:42:39,443 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,645 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,757 - attenuator - INFO - Position: 5958.0
+2021-09-13 15:42:39,757 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:39,959 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,072 - attenuator - INFO - Position: 5581.0
+2021-09-13 15:42:40,072 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,275 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,388 - attenuator - INFO - Position: 5202.0
+2021-09-13 15:42:40,388 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,591 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,705 - attenuator - INFO - Position: 4823.0
+2021-09-13 15:42:40,706 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:40,908 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:41,022 - attenuator - INFO - Position: 4441.0
+2021-09-13 15:42:41,023 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:41,225 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:41,326 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:41,435 - attenuator - INFO - Position: 3899.0
+2021-09-13 15:42:41,438 - attenuator - INFO - Set transmission to: 100.0%
+2021-09-13 15:42:46,623 - attenuator - INFO - Moving absolute to: 1949 steps
+2021-09-13 15:42:46,623 - attenuator - DEBUG - String sent: g 1949
+2021-09-13 15:42:46,726 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:46,828 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:46,945 - attenuator - INFO - Position: 3804.0
+2021-09-13 15:42:46,946 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,148 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,265 - attenuator - INFO - Position: 3540.0
+2021-09-13 15:42:47,266 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,468 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,577 - attenuator - INFO - Position: 3156.0
+2021-09-13 15:42:47,577 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,779 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:47,897 - attenuator - INFO - Position: 2782.0
+2021-09-13 15:42:47,898 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:48,100 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:48,209 - attenuator - INFO - Position: 2397.0
+2021-09-13 15:42:48,209 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:48,411 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:48,513 - attenuator - DEBUG - String sent: o
+2021-09-13 15:42:48,634 - attenuator - INFO - Position: 1949.0
+2021-09-13 15:42:48,652 - attenuator - INFO - Set transmission to: 50.0%
+2021-09-13 15:43:17,789 - attenuator - DEBUG - String sent: o

@@ -1,0 +1,17 @@
+2021-09-13 15:34:10,899 - attenuator - INFO - started logger
+2021-09-13 15:34:10,899 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:34:10,899 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_attenuator.json)
+2021-09-13 15:34:10,900 - attenuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-13 15:34:10,900 - attenuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-13 15:34:11,903 - attenuator - INFO - Com port (/dev/ttyUSB3) opened
+2021-09-13 15:34:11,904 - attenuator - INFO - Motor on
+2021-09-13 15:34:11,904 - attenuator - DEBUG - String sent: en 1
+2021-09-13 15:34:14,062 - attenuator - DEBUG - String sent: p
+2021-09-13 15:34:16,476 - attenuator - INFO - Set onoff=1 -> OK
+2021-09-13 15:34:20,569 - attenuator - INFO - Moving absolute to: 0 steps
+2021-09-13 15:34:32,293 - attenuator - DEBUG - String sent: g 0
+2021-09-13 15:34:40,618 - attenuator - DEBUG - String sent: o
+2021-09-13 15:34:42,867 - attenuator - DEBUG - String sent: o
+2021-09-13 15:37:04,680 - attenuator - INFO - Position: 0.0
+2021-09-13 15:37:04,687 - attenuator - DEBUG - String sent: o
+2021-09-13 15:37:07,700 - attenuator - ERROR - Could not read to com port

@@ -1,0 +1,89 @@
+2023-04-20 13:30:44,641 - linear_actuator - INFO - started logger
+2023-04-20 13:30:44,641 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-20 13:30:44,641 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/config_linear_actuator.json)
+2023-04-20 13:30:48,623 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2023-04-20 13:30:48,623 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/SBND_laser_control/workspace/RunControl/devices/config/com_ports.json)
+2023-04-20 13:30:49,627 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened
+2023-04-20 13:30:55,374 - linear_actuator - INFO - ---------------- init axis -----------------
+2023-04-20 13:30:55,482 - linear_actuator - DEBUG - String sent: 1MS=256
+
+2023-04-20 13:30:55,583 - linear_actuator - DEBUG - String sent: 1PR MS
+
+2023-04-20 13:30:55,684 - linear_actuator - INFO - Set MS=256[92m -> OK[0m
+2023-04-20 13:30:55,785 - linear_actuator - DEBUG - String sent: 1A=400
+
+2023-04-20 13:30:55,886 - linear_actuator - DEBUG - String sent: 1PR A
+
+2023-04-20 13:30:55,987 - linear_actuator - INFO - Set A=400[92m -> OK[0m
+2023-04-20 13:30:56,088 - linear_actuator - DEBUG - String sent: 1D=700
+
+2023-04-20 13:30:56,189 - linear_actuator - DEBUG - String sent: 1PR D
+
+2023-04-20 13:30:56,290 - linear_actuator - INFO - Set D=700[92m -> OK[0m
+2023-04-20 13:30:56,391 - linear_actuator - DEBUG - String sent: 1VI=100
+
+2023-04-20 13:30:56,492 - linear_actuator - DEBUG - String sent: 1PR VI
+
+2023-04-20 13:30:56,593 - linear_actuator - INFO - Set VI=100[92m -> OK[0m
+2023-04-20 13:30:56,694 - linear_actuator - DEBUG - String sent: 1VM=400
+
+2023-04-20 13:30:56,795 - linear_actuator - DEBUG - String sent: 1PR VM
+
+2023-04-20 13:30:56,897 - linear_actuator - INFO - Set VM=400[92m -> OK[0m
+2023-04-20 13:30:56,998 - linear_actuator - DEBUG - String sent: 1HC=10
+
+2023-04-20 13:30:57,099 - linear_actuator - DEBUG - String sent: 1PR HC
+
+2023-04-20 13:30:57,200 - linear_actuator - INFO - Set HC=10[92m -> OK[0m
+2023-04-20 13:30:57,301 - linear_actuator - DEBUG - String sent: 1RC=70
+
+2023-04-20 13:30:57,402 - linear_actuator - DEBUG - String sent: 1PR RC
+
+2023-04-20 13:30:57,502 - linear_actuator - INFO - Set RC=70[92m -> OK[0m
+2023-04-20 13:30:57,603 - linear_actuator - DEBUG - String sent: 1EE=1
+
+2023-04-20 13:30:57,704 - linear_actuator - DEBUG - String sent: 1PR EE
+
+2023-04-20 13:30:57,805 - linear_actuator - INFO - Set EE=1[92m -> OK[0m
+2023-04-20 13:30:57,906 - linear_actuator - DEBUG - String sent: 1SM=1
+
+2023-04-20 13:30:58,007 - linear_actuator - DEBUG - String sent: 1PR SM
+
+2023-04-20 13:30:58,108 - linear_actuator - INFO - Set SM=1[92m -> OK[0m
+2023-04-20 13:30:58,209 - linear_actuator - DEBUG - String sent: 1SF=20
+
+2023-04-20 13:30:58,310 - linear_actuator - DEBUG - String sent: 1PR SF
+
+2023-04-20 13:30:58,411 - linear_actuator - INFO - Set SF=20[92m -> OK[0m
+2023-04-20 13:30:58,512 - linear_actuator - DEBUG - String sent: 1S3=0,0,0
+
+2023-04-20 13:30:58,612 - linear_actuator - DEBUG - String sent: 1PR S3
+
+2023-04-20 13:30:58,713 - linear_actuator - INFO - Set S3=0,0,0[92m -> OK[0m
+2023-04-20 13:30:58,814 - linear_actuator - DEBUG - String sent: 1S4=0,0,0
+
+2023-04-20 13:30:58,915 - linear_actuator - DEBUG - String sent: 1PR S4
+
+2023-04-20 13:30:59,016 - linear_actuator - INFO - Set S4=0,0,0[92m -> OK[0m
+2023-04-20 13:30:59,016 - linear_actuator - INFO - Set S1 and S2 as limit switches for Linear Motor
+2023-04-20 13:30:59,117 - linear_actuator - DEBUG - String sent: 1S1=2,1,0
+
+2023-04-20 13:30:59,219 - linear_actuator - DEBUG - String sent: 1PR S1
+
+2023-04-20 13:30:59,320 - linear_actuator - INFO - Set S1=2,1,0[92m -> OK[0m
+2023-04-20 13:30:59,421 - linear_actuator - DEBUG - String sent: 1S2=3,1,0
+
+2023-04-20 13:30:59,522 - linear_actuator - DEBUG - String sent: 1PR S2
+
+2023-04-20 13:30:59,623 - linear_actuator - INFO - Set S2=3,1,0[92m -> OK[0m
+2023-04-20 13:31:00,125 - linear_actuator - INFO - Set trigger from Photodiode to Linear encoder.
+2023-04-20 13:31:00,226 - linear_actuator - DEBUG - String sent: 1S3=0,0,0
+
+2023-04-20 13:31:00,327 - linear_actuator - DEBUG - String sent: 1PR S3
+
+2023-04-20 13:31:00,428 - linear_actuator - INFO - Set S3=0,0,0[92m -> OK[0m
+2023-04-20 13:31:06,554 - linear_actuator - DEBUG - String sent: 1PR P
+
+2023-04-20 13:31:06,654 - linear_actuator - INFO - Moving -4000 microsteps
+2023-04-20 13:31:06,755 - linear_actuator - DEBUG - String sent: 1MR -4000
+

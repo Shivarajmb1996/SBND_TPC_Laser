@@ -1,0 +1,6 @@
+2021-09-14 16:37:35,844 - linear_actuator - INFO - started logger
+2021-09-14 16:37:35,845 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-14 16:37:35,845 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/config_linear_actuator.json)
+2021-09-14 16:37:35,846 - linear_actuator - INFO - CAUTION USING NON SPECIFIC CONFIG FILES
+2021-09-14 16:37:35,846 - linear_actuator - INFO - Using config file (/home/shivaraj/Desktop/SBN/Pyhton2_to_3/LCS-master/workspace/RunControl/devices/config/com_ports.json)
+2021-09-14 16:37:36,848 - linear_actuator - INFO - Com port (/dev/ttyUSB0) opened
