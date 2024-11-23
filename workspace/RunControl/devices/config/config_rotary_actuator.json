@@ -1,0 +1,28 @@
+{
+    "AXIS":                      2,
+    "MICROSTEPS":                256,
+    "ACCELERATION":              500,
+    "DECELLERATION":             500,
+    "INITIALVELOCITY":           200,
+    "ENDVELOCITY":               800,
+    "HOLDCURRENT":               5,
+    "RUNCURRENT":                90,
+    "HOMINGVELOCITY":            1200,
+    "MAX_HOMING_OVERSHOOT":      12070000,
+    "HOME_SWITCH":               "S2",
+    "HOME_DIRECTION":            3,
+    "IDLE_POSITION":             100,
+    "CLOCKRATIO":                100,
+    "CLOCKWIDTH":                10,
+    "ENCODER":                   1,
+    "STALLMODE":                 1,
+    "STALLFACTOR":               20,
+    "DEADBAND":                  1,
+    "ENCODERLINE":               0,
+    "POSITIONMAINTENANCE":       0,
+    "COUNTER1":                  0,
+    "COUNTER2":                  0,
+    "USER1":                     1,
+    "HOMING_MOVEMENT_DIRECTION": 1
+    
+}
